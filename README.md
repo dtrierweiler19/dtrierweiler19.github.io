@@ -1,4 +1,4 @@
 portfolio
 =========
 
-Danielle Trierweiler's Professional Portfolio
+Danielle Trierweiler's Professional Portfolio.
