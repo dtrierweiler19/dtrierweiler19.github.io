@@ -1,4 +1,4 @@
-portfolio
-=========
+light-site
+==========
 
-Danielle Trierweiler's Professional Portfolio.
+Lightweight Backbone Static Site Template

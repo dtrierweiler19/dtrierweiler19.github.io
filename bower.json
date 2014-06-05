@@ -1,0 +1,27 @@
+{
+  "name": "simple-static",
+  "version": "0.0.0",
+  "authors": [
+    "Dan Quinn <danthemilk@gmail.com>"
+  ],
+  "description": "Simple static site",
+  "keywords": [
+    "static"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.14",
+    "bootstrap": "~3.1.1",
+    "requirejs-text": "~2.0.12",
+    "almond": "~0.2.9"
+  }
+}

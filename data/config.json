@@ -1,0 +1,8 @@
+{
+  "nav-items": [
+    { "title": "Home", "path": "" },
+    { "title": "Resume", "path": "resume" },
+    { "title": "Contacts", "path": "contacts" }
+  ],
+  "theme": "default"
+}
