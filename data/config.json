@@ -2,7 +2,7 @@
   "nav-items": [
     { "title": "Home", "path": "" },
     { "title": "Resume", "path": "resume" },
-    { "title": "Contacts", "path": "contacts" }
+    { "title": "Contact", "path": "contact" }
   ],
-  "theme": "default"
+  "theme": "dtrier"
 }
