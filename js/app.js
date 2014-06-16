@@ -3,8 +3,10 @@ define([
   'jquery',
   'backbone',
   'router',
-  'templates'
-], function (_, $, Backbone, Router, templates) {
+  'templates',
+  'settings',
+  'bootstrap'
+], function (_, $, Backbone, Router, templates, settings) {
   'use strict';
 
   function App() {
@@ -12,33 +14,29 @@ define([
   }
 
   App.prototype.initialize = function () {
-    this.loadTemplates().then(function () {
-      Backbone.history.start();
-    });
+    this.loadData().then(function () { Backbone.history.start(); });
   };
 
-  App.prototype.loadTemplates = function () {
-    var d = new $.Deferred(),
-      theme = '';
+  App.prototype.loadData = function () {
+    var d = new $.Deferred();
 
     var getTemplate = function (name) {
-      return $.ajax('/themes/' + theme + '/' + name + '.html');
+      var _d = new $.Deferred();
+      $.ajax('/themes/' + settings.theme + '/' + name + '.html')
+        .then(function (template) {
+          templates[name] = template;
+          _d.resolve();
+        });
+      return _d.promise();
     };
 
-    $.getJSON('/data/config.json', function (config) {
-      theme = config.theme;
+    $.getJSON('/data/settings.json').then(function (data) {
+      _.each(data, function (value, key) {
+        settings[key] = value;
+      });
 
-      getTemplate('header')
-        .then(function (header) {
-          templates.header = header;
-          return getTemplate('sidebar');
-        }).then(function (sidebar) {
-          templates.sidebar = sidebar;
-          return getTemplate('footer');
-        }).then(function (footer) {
-          templates.footer = footer;
-          d.resolve();
-        });
+      $.when(getTemplate('header'), getTemplate('sidebar'), getTemplate('footer'))
+        .done(d.resolve);
     });
 
     return d.promise();

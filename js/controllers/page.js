@@ -16,15 +16,10 @@ define([
       footerView = new FooterView();
 
     headerView.collection = new NavItemsCollection();
-    headerView.collection.fetch()
-      .success(function () {
-        headerView.render();
-      });
-
+    headerView.collection.fetch().success(function () { headerView.render(); });
     sidebarView.render();
 
-    pageView.template = '/data/' + page + '.html';
-    pageView.render();
+    pageView.render(page);
 
     footerView.render();
   }
