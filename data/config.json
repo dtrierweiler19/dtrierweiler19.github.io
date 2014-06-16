@@ -1,8 +1,0 @@
-{
-  "nav-items": [
-    { "title": "Home", "path": "" },
-    { "title": "Resume", "path": "resume" },
-    { "title": "Contact", "path": "contact" }
-  ],
-  "theme": "dtrier"
-}
