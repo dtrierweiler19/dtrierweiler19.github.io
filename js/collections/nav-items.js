@@ -5,10 +5,7 @@ define([
   'use strict';
 
   return Backbone.Collection.extend({
-    url: '/data/config.json',
-    parse: function (response) {
-      return response['nav-items'];
-    },
+    url: '/data/pages.json',
     model: NavItemModel
   });
 });
