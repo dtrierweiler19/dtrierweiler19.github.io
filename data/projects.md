@@ -23,7 +23,7 @@
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
 
-<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014"IMLS Grant: UW Libraries and Music Library Association (MLA)
+<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant: UW Libraries and Music Library Association (MLA)</a></h3>
 
 <h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
 
@@ -31,7 +31,7 @@
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
 <ul>
 <li>Assisting Grant PIs with Project Management</li>
-<li>Budget Monitoring and Participant Reimbursement</li>
+<li>Budget Tracking</li>
 <li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Notetaking</li>
 <li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
 </ul>
