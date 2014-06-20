@@ -23,11 +23,11 @@
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
 
-<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant: UW Libraries and Music Library Association (MLA)</a></h3>
+<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014"IMLS Grant: UW Libraries and Music Library Association (MLA)</a></h3>
 
 <h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
 
-<p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
+<p>This IMLS-funded grant project includes a series of three summits aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
 <ul>
 <li>Assisting Grant PIs with Project Management</li>
@@ -36,8 +36,8 @@
 <li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
 </ul>
 
-<h3><a target="_blank" href="">UW Libraries Audio Archiving at the Suzzallo Media Center</a></h3>
-<li><a target="_blank" href="http://guides.lib.washington.edu/imls2014"> </a></li>
-<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">UW Libraries Puget Sounds Crocodile Cafe Collection on Soundcloud</a></li>
-<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Libraries Puget Sounds the Vera Project Collection on Soundcloud</a></li>
+<h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Audio Archiving</a></h3>
+<h4>Media Center Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
+<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
+<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
 </ul>
