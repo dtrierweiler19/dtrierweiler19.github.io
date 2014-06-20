@@ -5,9 +5,9 @@
 
 For this approx 6-month project, myself and two fellow UW MLIS students embarked on an intensive project to flex our User Experience/UX skills by working collaborative in the rapid and iterative production style inspired by agile development methodologies. Our team worked closely with our sponsor to design, develop and conduct user research to produce and launch our final product, a WordPress website using a customized theme, and RFKC's first-ever website.  
 
-Our goals for the site were ambitious- they included putting our library & info science professional skills to work building a full website design, testing, and launch process. By promoting core values of Accessability, Usability, and Scalability, we succeeded at creating a functional, attractive, and sustainable website.
+<ul>Our goals for the site were ambitious- they included putting our library & info science professional skills to work building a full website design, testing, and launch process. By promoting core values of Accessability, Usability, and Scalability, we succeeded at creating a functional, attractive, and sustainable website.</ul>
 
-Our project methods and goals required that we frequently worked as a team,  although we took on specialized roles as well. 
+<ul>Our project methods and goals required that we frequently worked as a team,  although we took on specialized roles as well.</ul>
 
 As the primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:
 <ul>
