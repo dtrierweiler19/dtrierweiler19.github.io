@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-<h3>University of Washington 2014 Capstone</h3>
+<h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org"/>University of Washington 2014 Capstone</a></h3>
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
 
@@ -13,7 +13,7 @@
 <p>As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:</p>
 
 <ul>
-<li>Engaging Stakeholder Interests in the Project and Empowering Users in the Design Process</li>
+<li>Engaging User Interest in the Project and Empowering them in the Design Process</li>
 <li>Gathering, Organizing, and Editing User Content to Meet Stylistic and Functional Site Requirements</li>
 <li>Ensuring Information Transparency, Access, and Equity through Scaffolding Technical Instruction and Regular Project Updates</li>
 <li> Establishing a Help-Desk System to Field Site-Relevant Issues and othe means of collecting User Feedback</li>
