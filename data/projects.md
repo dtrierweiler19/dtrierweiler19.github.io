@@ -1,9 +1,11 @@
 <h1>Projects</h1>
 
-<ul>
+<p> <ul>
 <li>University of Washington 2014 Capstone Project on Sustainable Web Design in Non-Profits:  "Creating for Community: Designing a Website for the Refugee Forum of King County" 
 
-For this approx 6-month project, myself and two fellow UW MLIS students embarked on an intensive project to flex our User Experience/UX skills by working collaborative in the rapid and iterative production style inspired by agile development methodologies. Our team worked closely with our sponsor to design, develop and conduct user research to produce and launch our final product, a WordPress website using a customized theme, and RFKC's first-ever website.  Our goals for the site were ambitious- they included putting our library & info science professional skills to work building a full website design, testing, and launch process. By promoting core values of Accessability, Usability, and Scalability, we succeeded at creating a functional, attractive, and sustainable website.
+For this approx 6-month project, myself and two fellow UW MLIS students embarked on an intensive project to flex our User Experience/UX skills by working collaborative in the rapid and iterative production style inspired by agile development methodologies. Our team worked closely with our sponsor to design, develop and conduct user research to produce and launch our final product, a WordPress website using a customized theme, and RFKC's first-ever website.  
+
+Our goals for the site were ambitious- they included putting our library & info science professional skills to work building a full website design, testing, and launch process. By promoting core values of Accessability, Usability, and Scalability, we succeeded at creating a functional, attractive, and sustainable website.
 
 Our project methods and goals required that we frequently worked as a team,  although we took on specialized roles as well. 
 
@@ -15,6 +17,7 @@ As the primary Content Strategist for the RFKC site, I served as the champion fo
 <li> Fielding a Help-Desk System to Field Site-Relevant Issues and othe means of collecting User Feedback</li>
 
 </ul> 
+</p>
 
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read About the Creation of the RFKC Website via the UW iSchool News & Events- Featured Story</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Refugee Forum of King County Website</a></li>
