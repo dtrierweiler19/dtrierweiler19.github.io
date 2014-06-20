@@ -9,7 +9,7 @@ For this approx 6-month project, myself and two fellow UW MLIS students embarked
 
 <ul>Our project methods and goals required that we frequently worked as a team,  although we took on specialized roles as well.</ul>
 
-As the primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:
+As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:
 <ul>
 <li>Engaging User Interest in the Project and Empowering them in the Design Process</li>
 <li>Gathering, Organizing, and Editing User Content to Meet Stylistic and Functional Site Requirements</li>
@@ -19,7 +19,7 @@ As the primary Content Strategist for the RFKC site, I served as the champion fo
 </ul> 
 </p>
 
-<li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read About the Creation of the RFKC Website via the UW iSchool News & Events- Featured Story</a></li>
+<li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Refugee Forum of King County Website</a></li>
 <li><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant Project with UW Libraries and MLA (Music Library Association) on Library Lending Policy & Digital Audio </a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">UW Libraries Puget Sounds Crocodile Cafe Collection on Soundcloud</a></li>
