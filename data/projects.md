@@ -32,14 +32,14 @@
 <ul>
 <li>Assisting Grant PIs with Project Management</li>
 <li>Budget Tracking</li>
-<li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Notetaking</li>
+<li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Note-taking</li>
 <li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
 </ul>
 Audio Preservation, Organization and Archiving, Jan 2013-Dec 2014
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212"></a>UW Libraries Suzzallo/Allen Media Center</h3>
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
-<p>As an intern and Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
-<p>I gained hands-on experience digitizing, re-encoding, and editing audio files using Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
+<p>As both an intern and Graduate Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
+<p>I gained hands-on experience digitizing, re-encoding, and editing audio files using the Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
 
 <ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
