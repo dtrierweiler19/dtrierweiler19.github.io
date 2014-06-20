@@ -38,7 +38,10 @@
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Audio Archiving</a></h3>
 <h4>Media Center Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
-<ul>
+<p>As an intern and Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
+<p>I gained hands-on experience digitizing, re-encoding, and editing audio files using Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community.</p>
+
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
+<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
