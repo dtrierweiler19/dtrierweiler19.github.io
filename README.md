@@ -1,4 +1,2 @@
-light-site
-==========
-
-Lightweight Backbone Static Site Template
+Professional Portfolio
+======================
