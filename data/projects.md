@@ -46,5 +46,5 @@ Audio Preservation, Organization and Archiving, Jan 2013-Dec 2014
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
-<h4>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h4>
-<p></p>
+<h3>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h3>
+<p>As a Digital Asset Coordinator Intern, I got practical experience organizing digital marketing content files using the company's shared drive by implementing a standardized naming convention, performing metadata entry using Microsoft Access and uploading content to Sub Pop's proprietary CMS. I also maintained digital image quality control, eliminate content duplicates, ensured currency and completeness of artist profile and record release dates, and maintained the physical company archive.</P>
