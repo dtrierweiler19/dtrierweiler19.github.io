@@ -25,7 +25,9 @@
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014"IMLS Grant: UW Libraries and Music Library Association (MLA)
 
-<h4>“National Forum on Online-Only Music"on Library Lending Policy & Digital Audio</h3>
+<h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
+
+<p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 
 <h3><a target="_blank" href="">UW Libraries Audio Archiving at the Suzzallo Media Center</a></h3>
 <li><a target="_blank" href="http://guides.lib.washington.edu/imls2014"> </a></li>
