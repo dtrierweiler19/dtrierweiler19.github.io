@@ -14,9 +14,9 @@
 <p><strong>IMLS Grant Project Administrative Specialist</strong> <br>
 <strong>Student Assistant</strong></p>
 <ul>
-<li>Media Center - Student Assistant</li>
-<li>Digital Initiatives - Student Assistant</li>
-<li>Labor Archives &amp; Special Collections - Student Assistant</li>
+<li>Media Center: Collection Development, Website Maintenance, Social Media,</li>
+<li>Digital Initiatives Dept: Hand-Digitization, Image Quality Control Using Adobe Photoshop</li>
+<li>Labor Archives &amp; Special Collections: Physical Collection Processing, Creation of Encoded Archival Description (EAD) Descriptive Finding Aids Using xMetal (XML), Security Screening and Sensitive Info Redaction, Spreadsheet Collection Management and research, Preparation of Donor Acknowledgement Letters </li>
 </ul>
 
 <h3>Ann Arbor District Library <small>2010 - 2012</small></h3>
@@ -24,6 +24,9 @@
 <strong>Book Processor</strong></p>
 
 <hr>
+
+<h3>Information School at the University of Washington <small>Winter 2013 - 2014</small></h3>
+<p><strong>Teaching Assistant</strong> <br>
 
 <h2>Coursework</h2>
 <ul>
