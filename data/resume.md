@@ -28,6 +28,9 @@
 <h3>Information School at the University of Washington <small>Winter 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant</strong> <br>
 
+
+<h2>Professional Memberships and Conferences</h2>
+
 <h2>Coursework</h2>
 <ul>
 <li>Information Architecture</li>
