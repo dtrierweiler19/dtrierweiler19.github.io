@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-<h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington 2014 Capstone</a></h3>
+<h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington Capstone, Jan-June 2014</a></h3>
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
 
@@ -25,7 +25,7 @@
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014"IMLS Grant: UW Libraries and Music Library Association (MLA)</a></h3>
 
-<h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
+<h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis" March-Current 2014</h3>
 
 <p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
@@ -37,7 +37,7 @@
 </ul>
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">Audio Preservation, Organization and Archiving</a></h3>
-<h4>UW Libraries Suzzallo/Allen Media Center: the Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
+<h4>UW Libraries Suzzallo/Allen Media Center: the Pacific Northwest "Puget Sounds" Digital Audio Archives, Jan 2013-Dec 2014</h4>
 <p>As an intern and Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
 <p>I gained hands-on experience digitizing, re-encoding, and editing audio files using Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
 
@@ -46,5 +46,5 @@
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
-<h4>Sub Pop Records: Digital Asset Management (DAM)</h4>
+<h4>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h4>
 <p></p>
