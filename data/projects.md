@@ -27,7 +27,7 @@
 
 <h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
 
-<p>This IMLS-funded grant project includes a series of three summits aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
+<p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
 <ul>
 <li>Assisting Grant PIs with Project Management</li>
@@ -38,6 +38,7 @@
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Audio Archiving</a></h3>
 <h4>Media Center Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
+<ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
 </ul>
