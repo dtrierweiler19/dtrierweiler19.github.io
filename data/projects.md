@@ -44,5 +44,5 @@
 <ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
-<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
+<li><a target="_blank" href="http://guides.lib.washington.edu/vera">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
