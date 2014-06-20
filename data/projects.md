@@ -31,7 +31,7 @@
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
 <ul>
 <li>Assisting Grant PIs with Project Management</li>
-<li>Budget Tracking</li>
+<li>Budget Monitoring and Participant Reimbursement</li>
 <li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Notetaking</li>
 <li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
 </ul>
