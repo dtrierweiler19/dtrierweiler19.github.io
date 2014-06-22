@@ -11,7 +11,7 @@
 <h2>Work Experience</h2>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
-<p><strong>IMLS Grant Project Administrative Specialist</strong> <br>
+<p><strong>IMLS Grant Project Administrative Specialist</strong> (See Projects)<br>
 <strong>Student Assistant</strong></p>
 <ul>
 <li>Media Center: Collection Development, Website Maintenance, Social Media</li>
@@ -56,7 +56,7 @@
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Annual Conference 2014: Accepted for Poster Presentation and Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award funding.</li>
+    <li>Annual Conference 2014: Accepted for Poster Presentation and Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
 <li>Association for Informatin Science and Technology (ASIS&T)</li>
