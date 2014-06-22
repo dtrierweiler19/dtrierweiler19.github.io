@@ -87,7 +87,7 @@
 <ul>
 <li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea
   <ul>
-  <li>Tumblr Personal Travel Blog </li>
+  <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
 <li>Attendee of iSchool Quarterly Discussions and Annual iSchool Diversity Summit 2014 </li>
 <li>Volunteered as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for  Prospective Applicant Materials</li>
 </ul>
