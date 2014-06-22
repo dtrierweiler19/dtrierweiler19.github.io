@@ -33,7 +33,7 @@
 <ul>
 <li>American Libraries Association (ALA)</li>
   <ul>
-    <li>Midwinter Meeting 2013<//li>
+    <li>Midwinter Meeting 2013</li>
     <li>Annual Conference 2014</li>
   </ul>
 <li>Special Libraries Association (SLA)</li>
