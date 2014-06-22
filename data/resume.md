@@ -24,23 +24,25 @@
 <ul>
 <li>Reference desk and catalog search assistance to patrons at all five AADL system branch locations</li>
 <li>Library account management using Innovative Systems Millenium internal interface and Drupal-based online public catalog</li>
-<li>Promotion and community event hosting of events such as first-ever online edition of AADL annual Summer Reading Game</li>
-<li>Report desk query bibliometrics, IT Help-Desk issues, and public safety Incident Reports</li>
-<li>Troubleshooting public computer terminals</li>
+<li>Promotion and community event hosting for events such as the first-ever online edition of AADL annual Summer Reading Game (2012)</li>
+<li>Reports desk query bibliometrics, IT Help-Desk issues, and public safety Incident Reports</li>
+<li>Troubleshooting assistance for public computer terminal users</li>
 
 </ul>
 <strong>Book Processor</strong></p>
 <ul>
-<li>Shelve, care for, and check-in library materials</li>
+<li>Shelving, care for, and check-in library materials included inter-library loan (ILL)</li>
 <li>Patron Assistance</li>
 <li>Occasional collection reshelving projects and event support</li>
 </ul>
 
 
 <h3>Information School at the University of Washington <small>Winter 2013 - 2014</small></h3>
-<p><strong>Teaching Assistant</strong> <br>
+<p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
-<li>In-person and Online Instructor Support using Canvas Learning Management System (LMS)</li>
+<li>Supported instructors via In-person and Online methods with Canvas Learning Management System (LMS)</li>
+<li>Graded and provided thoughtful, timely feedback for approx 70 graduate students between both sections</li>
+<li>Delivered Guest Lecture on Information Behavior in Health-Related Research Environments</li>
 </ul>
 
 
@@ -58,7 +60,7 @@
   
 <li>Association for Informatin Science and Technology (ASIS&T)</li>
   <ul>
-    <li>Accepted Student Volunteer for 2014 Information Architecture Summit (IA Summit)</li>
+    <li>Volunteer for 2014 Information Architecture Summit (IA Summit)</li>
   </ul>
 </ul>
 
