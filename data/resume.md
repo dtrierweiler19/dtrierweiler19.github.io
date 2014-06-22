@@ -89,9 +89,9 @@
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
 </ul>
-<li>Attendee of iSchool Quarterly Discussions and Annual iSchool Diversity Summit 2014 </li>
+<li>Participant in iSchool Quarterly Discussions and Annual iSchool Diversity Summit 2014 </li>
 <li>Volunteered as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for  Prospective Applicant Materials</li>
-<li>Attended Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) ProfessionalCampus Programming</li>
+<li>Participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional Campus-Wide Programming</li>
 </ul>
   
   
