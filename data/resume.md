@@ -5,10 +5,8 @@
 
 
 <h3>Kalamazoo College</h3>
-<p><strong>English</strong><small>2003 - 2008</small></p>
+<p><strong>English</strong><small>2003 - 2008</small></strong></p>
 
-
-<hr>
 
 <h2>Work Experience</h2>
 
@@ -40,7 +38,7 @@
 </ul>
 
 
-<h3>Information School at the University of Washington <small>Winter 2013 - 2014</small></h3>
+<h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
 <li>Supported Instructors via In-person and Online Methods using Canvas Learning Management System (LMS)</li>
@@ -67,7 +65,7 @@
   </ul>
 </ul>
 
-<h3>UW iSchool Community</h3><small>2013 - 2014</small>
+<h3>UW iSchool Community</h3><small>2013 - 2014</small><small>2012 - 2014</small></strong></p>
 <ul>
 <li>Co-Chair of iArts (Information + Arts)</li>
 <li>Treasurer of UW SLA Student Chapter</li>
