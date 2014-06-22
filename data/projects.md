@@ -23,9 +23,9 @@
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
 
-<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant: UW Libraries and Music Library Association (MLA)</a></h3>
+<h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant: UW Libraries and Music Library Association (MLA), March-Current 2014</a></h3>
 
-<h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis" March-Current 2014</h3>
+<h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
 
 <p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
@@ -35,8 +35,8 @@
 <li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Note-taking</li>
 <li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
 </ul>
-Audio Preservation, Organization and Archiving, Jan 2013-Dec 2014
-<h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Suzzallo/Allen Media Center</a></h3>
+Audio Preservation, Organization and Archiving
+<h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Suzzallo/Allen Media Center, Jan 2013-Dec 2014</a></h3>
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
 <p>As both an intern and Graduate Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
 <p>I gained hands-on experience digitizing, re-encoding, and editing audio files using the Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
