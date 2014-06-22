@@ -21,12 +21,27 @@
 
 <h3>Ann Arbor District Library <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> <br>
-<strong>Book Processor</strong></p>
+<ul>
+<li>Reference desk and catalog search assistance to patrons at all five AADL system branch locations</li>
+<li>Library account management using Innovative Systems Millenium internal interface and Drupal-based online public catalog</li>
+<li>Promotion and community event hosting of events such as first-ever online edition of AADL annual Summer Reading Game</li>
+<li>Report desk query bibliometrics, IT Help-Desk issues, and public safety Incident Reports</li>
+<li>Troubleshooting public computer terminals</li>
 
-<hr>
+</ul>
+<strong>Book Processor</strong></p>
+<ul>
+<li>Shelve, care for, and check-in library materials</li>
+<li>Patron Assistance</li>
+<li>Occasional collection reshelving projects and event support</li>
+</ul>
+
 
 <h3>Information School at the University of Washington <small>Winter 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant</strong> <br>
+<ul>
+<li>In-person and Online Instructor Support using Canvas Learning Management System (LMS)</li>
+</ul>
 
 
 <h2>Professional Memberships and Conferences</h2>
