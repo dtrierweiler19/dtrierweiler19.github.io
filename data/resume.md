@@ -30,6 +30,22 @@
 
 
 <h2>Professional Memberships and Conferences</h2>
+<ul>
+<li>American Libraries Association (ALA)</li>
+  <ul>
+    <li>Midwinter Meeting 2013<//li>
+    <li>Annual Conference 2014</li>
+  </ul>
+<li>Special Libraries Association (SLA)</li>
+  <ul>
+    <li>Annual Conference 2014: Accepted for Poster Presentation and Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award funding.</li>
+  </ul>
+  
+<li>Association for Informatin Science and Technology (ASIS&T)</li>
+  <ul>
+    <li>Accepted Student Volunteer for 2014 Information Architecture Summit (IA Summit)</li>
+  </ul>
+</ul>
 
 <h2>Coursework</h2>
 <ul>
