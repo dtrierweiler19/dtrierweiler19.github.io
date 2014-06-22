@@ -22,11 +22,11 @@
 <h3>Ann Arbor District Library <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> <br>
 <ul>
+<li>Troubleshooting Assistance for Public Computer Terminal Users</li>
 <li>Reference Desk and Catalog Search Assistance to Patrons at all five AADL Branch Locations</li>
 <li>Library Patron Account Management using Innovative Systems Millenium Internal Interface and Drupal Public Online Catalog</li>
 <li>Promotion and Community Event Hosting such as the First-Ever Online AADL Annual Summer Reading Game (2012)</li>
 <li>Responsible for Reporting Desk Query Bibliometrics, IT Help-Desk issues, and Public Safety Incident Reports</li>
-<li>Troubleshooting Assistance for Public Computer Terminal Users</li>
 <li>Assistance with Librarian Collection Weeding Projects</li>
 </ul>
 
@@ -61,7 +61,7 @@
   
 <li>Association for Informatin Science and Technology (ASIS&T)</li>
   <ul>
-    <li>Volunteer for 2014 Information Architecture Summit (IA Summit)</li>
+    <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
   </ul>
 </ul>
 
