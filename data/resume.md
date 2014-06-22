@@ -22,18 +22,19 @@
 <h3>Ann Arbor District Library <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> <br>
 <ul>
-<li>Reference desk and catalog search assistance to patrons at all five AADL system branch locations</li>
-<li>Library account management using Innovative Systems Millenium internal interface and Drupal-based online public catalog</li>
-<li>Promotion and community event hosting for events such as the first-ever online edition of AADL annual Summer Reading Game (2012)</li>
-<li>Reports desk query bibliometrics, IT Help-Desk issues, and public safety Incident Reports</li>
-<li>Troubleshooting assistance for public computer terminal users</li>
-
+<li>Reference Desk and Catalog Search Assistance to Patrons at all five AADL Branch Locations</li>
+<li>Library Patron Account Management using Innovative Systems Millenium Internal Interface and Drupal Public Online Catalog</li>
+<li>Promotion and Community Event Hosting such as the First-Ever Online AADL Annual Summer Reading Game (2012)</li>
+<li>Responsible for Reporting Desk Query Bibliometrics, IT Help-Desk issues, and Public Safety Incident Reports</li>
+<li>Troubleshooting Assistance for Public Computer Terminal Users</li>
+<li>Assistance with Librarian Collection Weeding Projects</li>
 </ul>
+
 <strong>Book Processor</strong></p>
 <ul>
-<li>Shelving, care for, and check-in library materials included inter-library loan (ILL)</li>
+<li>Shelving, Care for, and Check-in Library Materials Including Inter-Library Loan (ILL)</li>
 <li>Patron Assistance</li>
-<li>Occasional collection reshelving projects and event support</li>
+<li>Occasional Collection Shifting/Reshelving projects and Event Support</li>
 </ul>
 
 
@@ -41,12 +42,12 @@
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
 <li>Supported instructors via In-person and Online methods with Canvas Learning Management System (LMS)</li>
-<li>Graded and provided thoughtful, timely feedback for approx 70 graduate students between both sections</li>
+<li>Graded and Provided Thoughtful, Timely Feedback for approx 70 Graduate Students (between both sections)</li>
 <li>Delivered Guest Lecture on Information Behavior in Health-Related Research Environments</li>
 </ul>
 
 
-<h2>Professional Memberships and Conferences</h2>
+<h2>Professional Memberships, Awards, and Conferences</h2>
 <ul>
 <li>American Libraries Association (ALA)</li>
   <ul>
