@@ -47,7 +47,7 @@
 </ul>
 
 
-<h2>Professional Memberships, Awards, and Conferences</h2>
+<h2>Memberships, Awards, and Conferences</h2>
 <ul>
 <li>American Libraries Association (ALA)</li>
   <ul>
