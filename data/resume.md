@@ -65,6 +65,12 @@
   </ul>
 </ul>
 
+<h2>UW iSchool Community</h2><small>2013 - 2014</small>
+<ul>
+<li>Co-Chair of iArts (Information + Arts)</li>
+<li>Treasurer of UW SLA Student Chapter</li>
+</ul>
+
 <h2>Coursework</h2>
 <ul>
 <li>Information Architecture</li>
