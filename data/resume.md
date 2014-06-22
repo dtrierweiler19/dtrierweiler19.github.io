@@ -91,7 +91,7 @@
 <li>Accepted to Enroll in Course-Credit, Graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
-  <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My Write-up on South Korean Information for the UW SLA Chapter Travel WordPress Blog</a></li>
+  <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My Write-up on South Korean Information for the UW SLA Chapter WordPress Blog</a></li>
 </ul>
 </ul>
   
