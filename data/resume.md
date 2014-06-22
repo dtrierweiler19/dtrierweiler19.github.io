@@ -1,11 +1,11 @@
 <h2>Education</h2>
 
 <h3>University of Washington</h3>
-<p><strong>Masters of Library and Information Science <small>2012 - 2014</small></strong></p>
+<p><strong>Masters of Library and Information Science</strong> <small>2012 - 2014</small></p>
 
 
 <h3>Kalamazoo College</h3>
-<p><strong>English</strong><small>2003 - 2008</small></strong></p>
+<p><strong>English</strong> <small>2003 - 2008</small></strong></p>
 
 
 <h2>Work Experience</h2>
@@ -65,7 +65,7 @@
   </ul>
 </ul>
 
-<h3>UW iSchool Community</h3><small>2013 - 2014</small><small>2012 - 2014</small></strong></p>
+<h3>UW iSchool Community <small>2013 - 2014</small></h3>
 <ul>
 <li>Co-Chair of iArts (Information + Arts)</li>
 <li>Treasurer of UW SLA Student Chapter</li>
