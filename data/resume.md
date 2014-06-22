@@ -85,7 +85,7 @@
 
 <h3>International and Diversity</h3>
 <ul>
-<li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea<small>Summer, 2014</small></li>
+<li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea: Summer, 2014</li>
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
 </ul>
