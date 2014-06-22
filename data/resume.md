@@ -88,9 +88,10 @@
 <li>Ongoing Participant in UW iSchool Quarterly Discussions and Annual UW iSchool Diversity Summit: Spring, 2014 </li>
 <li>Volunteer as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for Prospective Applicant Essays</li>
 <li>Ongoing Participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional Campus-Wide Programming</li>
-<li>Graded 1-Month UW Information School Seminar on "Information, Technology, and Society" in Seoul, South Korea: Summer, 2013</li>
+<li>Accepted to Enroll in Course-Credit, Graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
+  <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My S.Korea Write-up for the UW SLA Chapter Travel WordPress Blog</a></li>
 </ul>
 </ul>
   
