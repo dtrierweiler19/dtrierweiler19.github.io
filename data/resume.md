@@ -85,13 +85,13 @@
 
 <h3>International and Diversity</h3>
 <ul>
-<li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea
+<li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea<small>July 2014 -Aug 2014</small> 
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
 </ul>
-<li>Participant in iSchool Quarterly Discussions and Annual iSchool Diversity Summit 2014 </li>
-<li>Volunteered as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for  Prospective Applicant Materials</li>
-<li>Participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional Campus-Wide Programming</li>
+<li>Ongoing Participant in UW iSchool Quarterly Discussions and Annual UW iSchool Diversity Summit 2014 </li>
+<li>Volunteer as a 2014 "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for Prospective Applicant Essays</li>
+<li>Ongoing Participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional Campus-Wide Programming</li>
 </ul>
   
   
