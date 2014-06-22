@@ -71,7 +71,7 @@
 <li>Treasurer of UW SLA Student Chapter</li>
 </ul>
 
-<h3>Coursework</h3>
+<h3>Graduate Coursework</h3>
 <ul>
 <li>Information Architecture</li>
 <li>Instruction for Information Professionals</li>
@@ -82,3 +82,15 @@
 <li>Introduction to Databases, HTML, and CSS</li>
 <li>Research Methods &amp; Design</li>
 </ul>
+
+<h3>International and Diversity</h3>
+<li>Graded 1-Month Seminar on "Information, Technology, and Society" in Seoul, South Korea
+  <ul>
+  <li>Tumblr Personal Travel Blog </li>
+  </ul>
+<li>Attendee of iSchool Quarterly Discussions and Annual iSchool Diversity Summit 2014 <li>
+<li>Volunteered as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for  Prospective Applicant Materials</li>
+<li>Attended Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) ProfessionalCampus Programming</li>
+</ul>
+  
+  
