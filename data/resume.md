@@ -14,7 +14,7 @@
 <p><strong>IMLS Grant Project Administrative Specialist</strong> <br>
 <strong>Student Assistant</strong></p>
 <ul>
-<li>Media Center: Collection Development, Website Maintenance, Social Media,</li>
+<li>Media Center: Collection Development, Website Maintenance, Social Media</li>
 <li>Digital Initiatives Dept: Hand-Digitization, Image Quality Control Using Adobe Photoshop</li>
 <li>Labor Archives &amp; Special Collections: Physical Collection Processing, Creation of Encoded Archival Description (EAD) Descriptive Finding Aids Using xMetal (XML), Security Screening and Sensitive Info Redaction, Spreadsheet Collection Management and research, Preparation of Donor Acknowledgement Letters </li>
 </ul>
@@ -25,7 +25,7 @@
 <li>Troubleshooting Assistance for Public Computer Terminal Users</li>
 <li>Reference Desk and Catalog Search Assistance to Patrons at all five AADL Branch Locations</li>
 <li>Library Patron Account Management using Innovative Systems Millenium Internal Interface and Drupal Public Online Catalog</li>
-<li>Promotion and Community Event Hosting such as the First-Ever Online AADL <li><a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
+<li>Promotion and Community Event Hosting such as the First-Ever Online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
 <li>Responsible for Reporting Desk Query Bibliometrics, IT Help-Desk issues, and Public Safety Incident Reports</li>
 <li>Assistance with Librarian Collection Weeding Projects</li>
 </ul>
