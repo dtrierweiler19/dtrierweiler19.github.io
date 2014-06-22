@@ -71,7 +71,7 @@
 <li>Treasurer of UW SLA Student Chapter</li>
 </ul>
 
-<h2>Coursework</h2>
+<h3>Coursework</h3>
 <ul>
 <li>Information Architecture</li>
 <li>Instruction for Information Professionals</li>
