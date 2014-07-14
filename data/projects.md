@@ -4,7 +4,7 @@
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
 
-<p>Over the course of roughly 6-months, myself and two fellow UW MLIS students embarked on a mission to gain as many practical User Experience/UX skills possible . We worked collaboratively in a rapid and iterative production style inspired by agile and lean development methodologies with our the Refugee Forum of King County, (RFKC) a Seattle nonprofit. Our team worked closely with RFKC to conduct user research, design, develop our final product: a fully functional, WordPress website using a customized theme. It is the RFKC's first-ever website.</p>
+<p>Over the course of roughly 6-months, two fellow UW MLIS students and I worked collaboratively in a rapid and iterative production style inspired by agile and lean development methodologies to produce a website for our sponsors, the Refugee Forum of King County (RFKC). This Seattle nonprofit had been interested in building its first website for several years, but had yet been unsuccessful. Our team worked closely with RFKC to conduct user research, design, develop our final product: a fully functional, WordPress website using a customized theme.</p>
 
 <p>Our design and development goals for the site were ambitious. We centered around core values of accessability, usability, and scalability in order to succeed in creating a functional, attractive, and sustainable website.</p>
 
