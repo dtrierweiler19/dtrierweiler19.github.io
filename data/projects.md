@@ -33,14 +33,14 @@
 <ul>
 <li>Assisting grant PIs with project management</li>
 <li>Budget updates and tracking</li>
-<li>Coordination of June 2014 summit logistics including catering orders, AV Requests, and notetaking</li>
-<li>Travel-to and Participation in June 2014 gummit for on-site support </li>
+<li>Coordination of June 2014 summit logistics including catering orders, AV requests, and notetaking</li>
+<li>Travel-to and participation in June 2014 summit for on-site support </li>
 </ul>
 Audio Preservation, Organization and Archiving
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Suzzallo/Allen Media Center, Jan 2013-Dec 2014</a></h3>
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
-<p>As both an intern and Graduate Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
-<p>By digitizing, re-encoding, and editing audio files using the Open Source tool Audacity as well as creating academic LibGuides, I was able to create a unique, cultural online resource for the UW Library community and wider public. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
+<p>Intern and Graduate Student Assistant at the UW Libraries Media Center: I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
+<p>By digitizing, re-encoding, and editing audio files using Audacity, an open source sound editing tool, as well as creating academic LibGuides, I was able to create a unique and context-rigch cultural online resource for the UW Library community and wider public. Both collections have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
 
 <ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
@@ -48,4 +48,4 @@ Audio Preservation, Organization and Archiving
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
 <h3>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h3>
-<p>As a Digital Asset Coordinator Intern, I got practical experience organizing digital marketing content files using the company's shared drive by implementing a standardized naming convention, performing metadata entry using Microsoft Access and uploading content to Sub Pop's proprietary CMS. I also maintained digital image quality control, eliminate content duplicates, ensured currency and completeness of artist profile and record release dates, and maintained the physical company archive.</P>
+<p>Digital Asset Coordinator Intern: This internship included organizing digital marketing content files, performing metadata entry and new catalog entries using Microsoft Access and uploading digital images in Sub Pop's proprietary CMS. I also maintained digital image quality control, eliminate content duplicates, ensured currency and completeness of artist profile and record release dates, and maintained the physical company archive.</P>
