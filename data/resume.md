@@ -24,8 +24,8 @@
 <ul>
 <li>Troubleshooting for public computer terminal users</li>
 <li>Reference desk assistance to patrons at all five AADL branch locations</li>
-<li>Use of Innovative Systems Millenium Internal Interface and Drupal-based Public Online Catalog</li>
-<li>Community event programming and hosting including the first Online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
+<li>Use of Innovative Systems Millenium library management interface and Drupal-based online catalog</li>
+<li>Community event programming and hosting including the first online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
 <li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports</li>
 <li>Assistance with librarian collection weeding projects</li>
 </ul>
@@ -56,7 +56,7 @@
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Annual Conference 2014: Accepted for poster presentation and recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
+    <li>Annual Conference 2014: Accepted to co-present Capstone project at the SLA joint poster presentation. Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
 <li>Association for Information Science and Technology (ASIS&T)</li>
