@@ -4,18 +4,19 @@
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
 
-<p>Over the course of roughly 6-months, two fellow UW MLIS students and I worked collaboratively in a rapid and iterative production style inspired by agile and lean development methodologies to produce a website for our sponsors, the Refugee Forum of King County (RFKC). This Seattle nonprofit had been interested in building its first website for several years, but had yet been unsuccessful. Our team worked closely with RFKC to conduct user research, design, develop our final product: a fully functional, WordPress website using a customized theme.</p>
+<p>Over the course of roughly 6-months, two fellow UW MLIS students and I worked collaboratively to produce a website for our sponsors, the Refugee Forum of King County (RFKC). This Seattle nonprofit had been interested in building its first website for several years, but had yet been unsuccessful. Our team worked closely with RFKC to conduct user research, design, develop our final product: a fully functional, WordPress website using a customized theme.</p>
 
-<p>Our design and development goals for the site were ambitious. We centered around core values of accessability, usability, and scalability in order to succeed in creating a functional, attractive, and sustainable website.</p>
+<p>Our design and development goals for the site were ambitious. We worked in a rapid and iterative production style inspired by agile and lean development methodologies. We centered our scope around core values of accessability, usability, and scalability in order to succeed in creating a functional, attractive, and sustainable website.</p>
 
 <p>Our project methods required that we frequently worked as a team,  although we took on specialized roles as well. As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:</p>
 
 <ul>
-<li>Engaging user interest in the presentation of their content by empowering them to participate in the design process</li>
 <li>Gathering, organizing, and editing user written content to meet stylistic and functional site requirements</li>
-<li>Increasing project "buy-in" by ensuring users remain informed on project updates through help-desk fielding, scaffolding technical instruction, and regular project updates</li>
-<li> Soliciting user feedback though surveys, help-desk fielding, and usability testing</li>
-</ul>
+<li>Engaging user interest and increasing project "buy-in" by ensuring users remain informed on project progress </li>
+<li>Recruiting and training volunteer web coordinators to ensure website maintenance at project close</li>
+<li>Soliciting user feedback though surveys, help-desk fielding, and usability testing</li>
+<li>Content coordination</li>
+</ul> 
 
 
 <ul>
