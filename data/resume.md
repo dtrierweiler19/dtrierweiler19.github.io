@@ -16,34 +16,34 @@
 <ul>
 <li>Media Center: Collection Development, Website Maintenance, Social Media</li>
 <li>Digital Initiatives Dept: Hand-Digitization, Image Quality Control Using Adobe Photoshop</li>
-<li>Labor Archives &amp; Special Collections: Physical Collection Processing, Creation of Encoded Archival Description (EAD) Descriptive Finding Aids Using xMetal (XML), Security Screening and Sensitive Info Redaction, Spreadsheet Collection Management and research, Preparation of Donor Acknowledgement Letters </li>
+<li>Labor Archives &amp; Special Collections: archival processing, creation of encoded archival description (EAD) finding aids using xMetal (XML) software, screening  documents for sensitive info and redaction, creation of spreadsheets for collection management, online research, and preparation of formal communications </li>
 </ul>
 
-<h3>Ann Arbor District Library <small>2010 - 2012</small></h3>
+<h3>Ann Arbor District Library (AADL) <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> <br>
 <ul>
 <li>Troubleshooting Assistance for Public Computer Terminal Users</li>
-<li>Reference Desk and Catalog Search Assistance to Patrons at all five AADL Branch Locations</li>
-<li>Library Patron Account Management using Innovative Systems Millenium Internal Interface and Drupal Public Online Catalog</li>
-<li>Promotion and Community Event Hosting such as the First-Ever Online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
-<li>Responsible for Reporting Desk Query Bibliometrics, IT Help-Desk issues, and Public Safety Incident Reports</li>
-<li>Assistance with Librarian Collection Weeding Projects</li>
+<li>Reference desk assistance to patrons at all five AADL branch locations</li>
+<li>Use of Innovative Systems Millenium Internal Interface and Drupal-based Public Online Catalog</li>
+<li>Community event programming and hosting including the first Online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
+<li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports</li>
+<li>Assistance with librarian collection weeding projects</li>
 </ul>
 
 <strong>Book Processor</strong></p>
 <ul>
-<li>Shelving, Care for, and Check-in Library Materials Including Inter-Library Loan (ILL)</li>
-<li>Patron Assistance</li>
-<li>Occasional Collection Shifting/Reshelving projects and Event Support</li>
+<li>Shelving, care, and check-in of library materials including inter-library loan (ILL)</li>
+<li>Patron assistance</li>
+<li>Occasional collection shifting/reshelving projects and event support</li>
 </ul>
 
 
 <h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
-<li>Supported Instructors via In-person and Online Methods using Canvas Learning Management System (LMS)</li>
-<li>Graded and Provided Thoughtful, Timely Feedback for approx 70 Graduate Students (between both sections)</li>
-<li>Delivered Guest Lecture on Information Behavior in Health-Related Research Environments</li>
+<li>Supported Instructors via regular in-person class attendance and online methods using Canvas Learning Management System (LMS)</li>
+<li>Graded student papers using instructor rubric and provided thoughtful, timely feedback for approx 70 Graduate Students (between both sections)</li>
+<li>Delivered guest lecture on subject of information behavior</li>
 </ul>
 
 
@@ -56,10 +56,10 @@
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Annual Conference 2014: Accepted for Poster Presentation and Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
+    <li>Annual Conference 2014: Accepted for poster presentation and recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
-<li>Association for Informatin Science and Technology (ASIS&T)</li>
+<li>Association for Information Science and Technology (ASIS&T)</li>
   <ul>
     <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
   </ul>
@@ -85,10 +85,10 @@
 
 <h3>International and Diversity</h3>
 <ul>
-<li>Ongoing Participant in UW iSchool Quarterly Discussions and Annual UW iSchool Diversity Summit: Spring, 2014 </li>
-<li>Volunteer as an "iDiversity Ambassador" to Proofread and Offer Editorial Suggestions for Prospective Applicant Essays</li>
-<li>Ongoing Participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional Campus-Wide Programming</li>
-<li>Accepted to Enroll in Course-Credit, Graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
+<li>Ongoing participant in UW iSchool Quarterly inclusion discussions and annual UW iSchool Diversity Summit: Spring, 2014 </li>
+<li>Volunteer as an "iDiversity Ambassador" to proofread prospective applicant essays</li>
+<li>Ongoing participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional campus-wide programming</li>
+<li>Accepted to participate in graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
   <ul>
   <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
   <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My Write-up on South Korean Information for the UW SLA Chapter WordPress Blog</a></li>
