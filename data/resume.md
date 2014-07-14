@@ -43,7 +43,7 @@
 <ul>
 <li>Supported tnstructors via regular in-person class attendance and online methods using Canvas Learning Management System (LMS)</li>
 <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
-<li>Delivered guest lecture on subject of information behavior</li>
+<li>Delivered guest lecture on information behavior</li>
 </ul>
 
 
