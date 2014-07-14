@@ -14,15 +14,15 @@
 <p><strong>IMLS Grant Project Administrative Specialist</strong> (See Projects)<br>
 <strong>Student Assistant</strong></p>
 <ul>
-<li>Media Center: Collection Development, Website Maintenance, Social Media</li>
-<li>Digital Initiatives Dept: Hand-Digitization, Image Quality Control Using Adobe Photoshop</li>
+<li>Media Center: collection development, website maintenance, social media</li>
+<li>Digital Initiatives Dept: hand-digitization, manuscript scanning, and image quality control using Adobe Photoshop</li>
 <li>Labor Archives &amp; Special Collections: archival processing, creation of encoded archival description (EAD) finding aids using xMetal (XML) software, screening  documents for sensitive info and redaction, creation of spreadsheets for collection management, online research, and preparation of formal communications </li>
 </ul>
 
 <h3>Ann Arbor District Library (AADL) <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> <br>
 <ul>
-<li>Troubleshooting Assistance for Public Computer Terminal Users</li>
+<li>Troubleshooting for public computer terminal users</li>
 <li>Reference desk assistance to patrons at all five AADL branch locations</li>
 <li>Use of Innovative Systems Millenium Internal Interface and Drupal-based Public Online Catalog</li>
 <li>Community event programming and hosting including the first Online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
@@ -41,8 +41,8 @@
 <h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
-<li>Supported Instructors via regular in-person class attendance and online methods using Canvas Learning Management System (LMS)</li>
-<li>Graded student papers using instructor rubric and provided thoughtful, timely feedback for approx 70 Graduate Students (between both sections)</li>
+<li>Supported tnstructors via regular in-person class attendance and online methods using Canvas Learning Management System (LMS)</li>
+<li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
 <li>Delivered guest lecture on subject of information behavior</li>
 </ul>
 
