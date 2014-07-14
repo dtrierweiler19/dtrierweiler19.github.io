@@ -4,19 +4,17 @@
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
 
-<p>For this approx 6-month project, myself and two fellow UW MLIS students embarked on an intensive project to flex our User Experience/UX skills by working collaborative in the rapid and iterative production style inspired by agile development methodologies. Our team worked closely with our sponsor to design, develop and conduct user research to produce and launch our final product, a WordPress website using a customized theme, and RFKC's first-ever website.</p>
+<p>Over the course of roughly 6-months, myself and two fellow UW MLIS students embarked on a mission to gain as many practical User Experience/UX skills possible . We worked collaboratively in a rapid and iterative production style inspired by agile and lean development methodologies with our the Refugee Forum of King County, (RFKC) a Seattle nonprofit. Our team worked closely with RFKC to conduct user research, design, develop our final product: a fully functional, WordPress website using a customized theme. It is the RFKC's first-ever website.</p>
 
-<p>Our goals for the site were ambitious- they included putting our library & info science professional skills to work building a full website design, testing, and launch process. By promoting core values of Accessability, Usability, and Scalability, we succeeded at creating a functional, attractive, and sustainable website.</p>
+<p>Our design and development goals for the site were ambitious. We centered around core values of accessability, usability, and scalability in order to succeed in creating a functional, attractive, and sustainable website.</p>
 
-<p>Our project methods required that we frequently worked as a team,  although we took on specialized roles as well.</p>
-
-<p>As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:</p>
+<p>Our project methods required that we frequently worked as a team,  although we took on specialized roles as well. As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:</p>
 
 <ul>
-<li>Engaging User Interest in the Project and Empowering them in the Design Process</li>
-<li>Gathering, Organizing, and Editing User Content to Meet Stylistic and Functional Site Requirements</li>
-<li>Ensuring Information Transparency, Access, and Equity through Scaffolding Technical Instruction and Regular Project Updates</li>
-<li> Establishing a Help-Desk System to Field Site-Relevant Issues and othe means of collecting User Feedback</li>
+<li>Engaging user interest in the presentation of their content by empowering them to participate in the design process</li>
+<li>Gathering, organizing, and editing user written content to meet stylistic and functional site requirements</li>
+<li>Increasing project "buy-in" by ensuring users remain informed on project updates through help-desk fielding, scaffolding technical instruction, and regular project updates</li>
+<li> Soliciting user feedback though surveys, help-desk fielding, and usability testing</li>
 </ul>
 
 
@@ -33,16 +31,16 @@
 <p>This IMLS-funded grant project includes a series of three summits  aimed to raise awareness and critcal discussion amongst digital content stakeholders across industries and professions. Specifically, the series addresses challenges in negoitating digital-only content rights (especially digitial audio) and policy for user access via end user lisence agreements (EULAS) in context of library and public institutional lending </p>
 <p>As a student administrative assistant for UW Libraries I was responsible for various tasks including: </p>
 <ul>
-<li>Assisting Grant PIs with Project Management</li>
-<li>Budget Tracking</li>
-<li>Coordination of June 2014 pre-ALA Conference Summit Logistics including Catering Orders, AV Requests, and Note-taking</li>
-<li>Travel-to and Participation in June 2014 pre-ALA Conference Summit for additional support </li>
+<li>Assisting grant PIs with project management</li>
+<li>Budget updates and tracking</li>
+<li>Coordination of June 2014 summit logistics including catering orders, AV Requests, and notetaking</li>
+<li>Travel-to and Participation in June 2014 gummit for on-site support </li>
 </ul>
 Audio Preservation, Organization and Archiving
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Suzzallo/Allen Media Center, Jan 2013-Dec 2014</a></h3>
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
 <p>As both an intern and Graduate Student Assistant at the UW Libraries Media Center, I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
-<p>I gained hands-on experience digitizing, re-encoding, and editing audio files using the Open Source tool Audacity as well as creating academic LibGuides and other online resources for the UW Library community. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
+<p>By digitizing, re-encoding, and editing audio files using the Open Source tool Audacity as well as creating academic LibGuides, I was able to create a unique, cultural online resource for the UW Library community and wider public. Both have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
 
 <ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
