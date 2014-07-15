@@ -11,7 +11,7 @@
 <h2>Work Experience</h2>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
-<p><strong>IMLS Grant Project Administrative Specialist</strong> (See Projects)<br>
+<p><strong>IMLS Grant Project Administrative Specialist</strong> <a href="/#/projects">See projects</a><br>
 <strong>Student Assistant</strong></p>
 <ul>
 <li>Media Center: collection development, website maintenance, social media</li>
@@ -27,7 +27,7 @@
 <li>Use of Innovative Systems Millenium library management interface and Drupal-based online catalog</li>
 <li>Community event programming and hosting including the first online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
 <li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports</li>
-<li>Assistance with librarian collection weeding projects</li>
+<li>Assistance with collection weeding projects</li>
 </ul>
 
 <strong>Book Processor</strong></p>
