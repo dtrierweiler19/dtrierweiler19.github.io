@@ -1,11 +1,11 @@
 <h2>Education</h2>
 
 <h3>University of Washington</h3>
-<p><strong>Masters of Library and Information Science</strong> <small>2012 - 2014</small></p>
+<p><strong>Masters of Library and Information Science</strong> <small class="text-muted">2012 - 2014</small></p>
 
 
 <h3>Kalamazoo College</h3>
-<p><strong>English</strong> <small>2003 - 2008</small></strong></p>
+<p><strong>English</strong> <small class="text-muted">2003 - 2008</small></strong></p>
 
 
 <h2>Work Experience</h2>
