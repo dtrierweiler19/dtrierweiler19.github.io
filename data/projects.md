@@ -22,6 +22,7 @@
 <ul>
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
+<li><a target="_blank" href="file:///Users/danielle/Downloads/Advisory%20Board%20Presentation%20(1).pdf">Projec Presentation </a></li>
 <li><a href="http://www.tumblr.com/blog/capstoneproject2014" target="_blank">Tumblr Blog of Our Process</a></li>
 </ul>
 
