@@ -22,7 +22,7 @@
 <ul>
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
-<li><a target="_blank" href="https://dl.dropboxusercontent.com/u/129040114/CapstoneAdvisory%20Board%20Presentation.pdf">Project Presentation </a></li>
+<li><a target="_blank" href="https://dl.dropboxusercontent.com/u/129040114/CapstoneAdvisory%20Board%20Presentation.pdf">Project Presentation-Courtesy of Erika Deal </a></li>
 <li><a href="http://www.tumblr.com/blog/capstoneproject2014" target="_blank">Tumblr Blog of Our Process</a></li>
 </ul>
 
@@ -35,7 +35,7 @@
 <ul>
 <li>Assisting grant PIs with project management</li>
 <li>Budget updates and tracking</li>
-<li>Coordination of June 2014 summit logistics including catering orders, AV requests, and notetaking</li>
+<li>Coordination of June 2014 summit including working closely with UW Grants Management staff to conduct budget montoring, support PIs with meeting logistics including secretarial duties and assesment. </li>
 <li>Travel-to and participation in June 2014 summit for on-site support </li>
 </ul>
 Audio Preservation, Organization and Archiving
