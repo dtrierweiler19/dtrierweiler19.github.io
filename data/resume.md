@@ -56,12 +56,13 @@
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Annual Conference 2014: Accepted to co-present Capstone project at the SLA joint poster presentation. Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
+    <li>Accepted co-presenter for SLA Annual joint poster presentation. Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
 <li>Association for Information Science and Technology (ASIS&T)</li>
   <ul>
     <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
+    <li>Accepted presenter  for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" professional poster presentation </li>
   </ul>
 </ul>
 
