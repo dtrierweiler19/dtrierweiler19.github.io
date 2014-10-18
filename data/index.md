@@ -2,7 +2,7 @@
 
 <p class="lead">I am a Masters in Library and Information Science (MLIS) degree graduate from the University of Washington Information School. I live in the Seattle, WA area where I moved from my hometown of Ann Arbor, MI in 2012.</p>
 
-<p>I am currently seeking opportunities in an academic, public, or special library- information-rich and user-centered service environments are the best! My interestes include qualitative user-centered research and design, project management, content strategy, and the spectrum of user experience/UX. Specific skills I bring include:</p>
+<p>I am currently seeking opportunities in an academic, public, or special library- information-rich and user-centered service environments are best! My interests include qualitative user-centered research and design, project management, content strategy, and the spectrum of user experience/UX. Specific skills I bring include:</p>
 
 <ul>
 <li>Effective verbal and written communicator</li>
