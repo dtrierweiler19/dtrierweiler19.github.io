@@ -41,7 +41,7 @@
 <h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
-<li>Supported tnstructors via regular in-person class attendance and online methods using Canvas Learning Management System (LMS)</li>
+<li>Supported instructors via regular in-person class attendance and online using Canvas Learning Management System (LMS)</li>
 <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
 <li>Delivered guest lecture on information behavior</li>
 </ul>
