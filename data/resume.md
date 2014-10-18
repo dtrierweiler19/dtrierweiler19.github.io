@@ -56,7 +56,7 @@
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Accepted professional poster session co-presenter for SLA on our UW Capstone project: UX forNonprofits . Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
+    <li>Accepted professional poster session co-presenter for SLA on UW Capstone project: Web UX for Nonprofits . Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
 <li>Association for Information Science and Technology (ASIS&T)</li>
