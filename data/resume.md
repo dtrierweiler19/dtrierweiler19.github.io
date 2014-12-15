@@ -10,7 +10,7 @@
 
 <h2>Work Experience</h2>
 
-<h3>ChaseLane Consulting Services<small>2014</small></h3>
+<h3>ChaseLane Consulting Services <small>2014</small></h3>
 <p><strong>Freelance Research Assistant</strong> <br>
 <ul>
 <li>Conducted research, gathered relevant literature and data for client-focused topics
