@@ -10,8 +10,14 @@
 
 <h2>Work Experience</h2>
 
+<h3>ChaseLane Consulting Services<small>2014</small></h3>
+<p><strong>Freelance Research Assistant</strong> <br>
+<ul>
+<li>Conducted research, gathered relevant literature and data for client-focused topics
+</ul>
+
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
-<p><strong>IMLS Grant Project Administrative Specialist</strong> <a href="/#/projects">See projects</a><br>
+<p><strong>IMLS Grant Project</strong> <a href="/#/projects">See projects</a><br>
 <strong>Graduate Student Assistant</strong></p>
 <ul>
 <li>Media Center:  digital audio collection development, "LibGuides" research guide creation, website maintenance, social media</li>
