@@ -1,21 +1,21 @@
 <h2>Education</h2>
 
 <h3>University of Washington</h3>
-<p><strong>Masters of Library and Information Science</strong> <small class="text-muted">2012 - 2014</small></p>
+<p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
 
 
 <h3>Kalamazoo College</h3>
-<p><strong>English</strong> <small class="text-muted">2003 - 2008</small></strong></p>
+<p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
 
 
 <h2>Work Experience</h2>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
 <p><strong>IMLS Grant Project Administrative Specialist</strong> <a href="/#/projects">See projects</a><br>
-<strong>Student Assistant</strong></p>
+<strong>Graduate Student Assistant</strong></p>
 <ul>
-<li>Media Center: collection development, website maintenance, social media</li>
-<li>Digital Initiatives Dept: hand-digitization, manuscript scanning, and image quality control using Adobe Photoshop</li>
+<li>Media Center:  digital audio collection development, "LibGuides" research guide creation, website maintenance, social media</li>
+<li>Digital Initiatives Dept: High-volume hand-digitization, manuscript scanning, and image quality control using Adobe Photoshop</li>
 <li>Labor Archives &amp; Special Collections: archival processing, creation of encoded archival description (EAD) finding aids using xMetal (XML) software, screening  documents for sensitive info and redaction, creation of spreadsheets for collection management, online research, and preparation of formal communications </li>
 </ul>
 
@@ -41,9 +41,9 @@
 <h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> <br>
 <ul>
-<li>Supported instructors via regular in-person class attendance and online using Canvas Learning Management System (LMS)</li>
+<li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
 <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
-<li>Delivered guest lecture on information behavior</li>
+<li>Delivered a guest lecture and led class session on information behavior</li>
 </ul>
 
 
@@ -62,7 +62,7 @@
 <li>Association for Information Science and Technology (ASIS&T)</li>
   <ul>
     <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
-    <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Digital Media and Information Sharing</li>
+    <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
   </ul>
 </ul>
 
