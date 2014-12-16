@@ -2,7 +2,7 @@
 
 <p class="lead">I am a graduate of the ALA-accredited Masters in Library and Information Science (MLIS) degree program at the the University of Washington Information School. I live in the Seattle, WA area where I moved from my hometown of Ann Arbor, MI in 2012.</p>
 
-<p>I am currently seeking opportunities in community rich, user-centered information service environments where I might explore my interests in research design, project and collection management, content management and strategy, and the socio-cultural and technical impacts of user experience/UX in digital web technologies. I offer:</p>
+<p>I am currently seeking opportunities in a community rich, user-centered information service environments where I might explore my interests in research design, project and collection management, content management and strategy, and the socio-cultural and technical impacts of user experience/UX in digital web technologies. I offer:</p>
 
 <ul>
 <li>Effective communication skills with an English major's sense of both verbal and written form and function</li>
