@@ -10,20 +10,20 @@
 
 <h2>Work Experience</h2>
 
-<h3>Illinois College<small>2015</small></h3>
+<h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
 <li>Digital project management, technical troubleshooting, systems administration, database management, serves as library and CARLI (Consortium of Academic Libraries Illinois) and e-resource vendor liason, seeks and pursues grant and funding opportunities, and other duties as needed.
 </ul>
 
-<h3>ChaseLane Consulting Services <small>2014</small></h3>
+<h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
 <p><strong>Freelance Research Assistant</strong> <br>
 <ul>
 <li>Conducted research, gathered relevant literature and data for client-focused topics
 </ul>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
-<p><strong>IMLS Grant Project</strong> <a href="/#/projects">See projects</a><br>
+<p><strong>IMLS Grant Project</strong> <a href="//projects">See projects</a><br>
 <strong>Graduate Student Assistant</strong></p>
 <ul>
 <li>Media Center:  digital audio collection development, "LibGuides" research guide creation, website maintenance, social media</li>
