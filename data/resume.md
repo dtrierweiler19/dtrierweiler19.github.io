@@ -13,7 +13,7 @@
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
-<li>Digital scholarship reasearch and project management, library systems and database administration, act as an ongoing liason for the Illinois State Academic Library Consortium and e-resource vendors. Additionally seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li> persorms technical troubleshooting, and other duties as needed.
+<li>Digital scholarship reasearch and project management, library systems and database administration, act as an ongoing liason for the Illinois State Academic Library Consortium and e-resource vendors. Additionally seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li> performs technical troubleshooting, and other duties as needed.
 </ul>
 
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
