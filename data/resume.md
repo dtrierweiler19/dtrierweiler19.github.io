@@ -13,13 +13,13 @@
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
-<li>Digital project management, technical troubleshooting, library systems and database administration, serves as the ongoing library and CARLI (Consortium of Academic Libraries Illinois) and e-resource vendor liason, seeks and pursues grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li>  and other duties as needed.
+<li>Digital scholarship reasearch and project management, library systems and database administration, act as an ongoing liason for the Illinois State Academic Library Consortium and e-resource vendors. Additionally seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li> persorms technical troubleshooting, and other duties as needed.
 </ul>
 
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
 <p><strong>Freelance Research Assistant</strong> <br>
 <ul>
-<li>Conducted research, gathered relevant literature and data for client-focused topics
+<li>Conducted research, gathered relevanthealthcare literature and data for client-focused topics
 </ul>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
@@ -36,9 +36,9 @@
 <ul>
 <li>Troubleshooting for public computer terminal users</li>
 <li>Reference desk assistance to patrons at all five AADL branch locations</li>
-<li>Use of Innovative Systems Millenium library management interface and Drupal-based online catalog</li>
+<li>Use of Innovative Systems Millenium library circulation system and Drupal-based online catalog</li>
 <li>Community event programming and hosting including the first online AADL <a href="http://play.aadl.org/node/263694" target="_blank">Annual Summer Reading Game</a></li>
-<li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports</li>
+<li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports as needed</li>
 <li>Assistance with collection weeding projects</li>
 </ul>
 
@@ -63,12 +63,12 @@
 <ul>
 <li>American Libraries Association (ALA)</li>
   <ul>
-    <li>Midwinter Meeting 2013</li>
-    <li>Annual Conference 2014</li>
+    <li>2013 Midwinter Meeting</li>
+    <li>2014 Annual Conference</li>
   </ul>
 <li>Special Libraries Association (SLA)</li>
   <ul>
-    <li>Accepted professional poster session co-presenter for SLA on UW Capstone project: Web UX for Nonprofits . Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
+    <li>Accepted professional poster session co-presenter for 2014 SLA Annual Meeting in Vancouver: UW Capstone project: Web UX for Nonprofits . Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
   
 <li>Association for Information Science and Technology (ASIS&T)</li>
@@ -99,7 +99,7 @@
 <h3>International and Diversity</h3>
 <ul>
 <li>Ongoing participant in UW iSchool Quarterly inclusion discussions and annual UW iSchool Diversity Summit: Spring, 2014 </li>
-<li>Volunteer as an "iDiversity Ambassador" to proofread prospective applicant essays</li>
+<li>Volunteer"iDiversity Ambassador" to proofread prospective applicant essays</li>
 <li>Ongoing participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional campus-wide programming</li>
 <li>Accepted to participate in graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
   <ul>
