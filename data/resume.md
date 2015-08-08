@@ -13,7 +13,7 @@
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
-<li>Digital project management, technical troubleshooting, systems administration, database management, serves as library and CARLI (Consortium of Academic Libraries Illinois) and e-resource vendor liason, seeks and pursues grant and funding opportunities, and other duties as needed.
+<li>Digital project management, technical troubleshooting, library systems and database administration, serves as the ongoing library and CARLI (Consortium of Academic Libraries Illinois) and e-resource vendor liason, seeks and pursues grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li>  and other duties as needed.
 </ul>
 
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
