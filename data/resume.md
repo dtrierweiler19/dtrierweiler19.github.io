@@ -13,7 +13,7 @@
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
-<li>Digital scholarship reasearch and project management, library systems and database administration, act as an ongoing liason for the Illinois State Academic Library Consortium and e-resource vendors. Additionally seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a></li> performs technical troubleshooting, and other duties as needed.
+<li>Digital scholarship reasearch and project management, library systems and database administration, acts as an ongoing liason for the Illinois State Academic Library Consortium and e-resource vendors. Seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a> performs technical troubleshooting, serves on college commitees and special task forces, and other duties as needed. 
 </ul>
 
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
@@ -59,9 +59,10 @@
 </ul>
 
 
-<h2>Memberships, Awards, and Conferences</h2>
+<h2>Professional Memberships, Awards, and Conferences</h2>
 <ul>
 <li>American Libraries Association (ALA)</li>
+<li>Member of: Academic & College Library Association (ACRL) and Library Information Technology Association (LITA)</li>
   <ul>
     <li>2013 Midwinter Meeting</li>
     <li>2014 Annual Conference</li>
@@ -76,8 +77,7 @@
     <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
     <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
   </ul>
-</ul>
-
+  
 <h3>UW iSchool Community <small>2013 - 2014</small></h3>
 <ul>
 <li>Co-Chair of iArts (Information + Arts)</li>
@@ -95,6 +95,12 @@
 <li>Introduction to Databases, HTML, and CSS</li>
 <li>Research Methods &amp; Design</li>
 </ul>
+
+
+<h3>Technology</h3>
+<ul>
+<li>Markup Languages: Basic XML, HTML, and CSS</li>
+<li>Beginner JavaScript</li>
 
 <h3>International and Diversity</h3>
 <ul>
