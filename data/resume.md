@@ -74,7 +74,8 @@
   
 <li>Association for Information Science and Technology (ASIS&T)</li>
   <ul>
-    <li>Selected to Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
+    <li>Volunteer Reviewer for IA Summit 2016 Propsals</li>
+    <li>On-site Session Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
     <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
   </ul>
   
