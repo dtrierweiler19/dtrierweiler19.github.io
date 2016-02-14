@@ -9,7 +9,7 @@
 <li>Curiousity and a creative problem-solver</li>
 <li>Commitment to information service and adding value: 5+ years of public, academic, and special library experience</li>
 <li>Motivation for user-centered design in library infomation service, technology, and web design</li>
-<li>Versatility in instruction: experienced with instructor support, graduate student assesment and individualized student feedback conducted both in-person and via a learning management system (Canvas LMS), I employ a blend of traditional as well as experiential and social learning tactics </li>
+<li>Versatile, digitally-centered information literacy instruction: experienced with instructor support (course or single-session), graduate and undergraduate student assesment and individualized student feedback conducted both in-person and via a learning management system (Canvas or Moodle LMS). I employ a blend of traditional as well as experiential and social learning tactics </li>
 <li>Experience with and willingness to learn basic operational administrative tasks: budgeting, grant-writing, and non-profit organizational funding process and procedures</li>
 <li>Compassion and cross-cultural competence: I respect and advocate for diversity in people and their information needs</li>
 </ul>
