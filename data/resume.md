@@ -4,7 +4,7 @@
 <p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
 
 
-<h3>Kalamazoo College</h3>
+<h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
 <p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
 
 
