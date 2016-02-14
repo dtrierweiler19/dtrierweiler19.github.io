@@ -13,13 +13,16 @@
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
-<li>Digital scholarship reasearch and project management, library systems and database administration, acts as an ongoing liason for the Illinois Statewide Academic Library Consortium (CARLI) and e-resource vendors. Seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a> and manages project logistics, meets any travel and participation requirements, and represents the College throughout.	Supports and sustains campus community though active participation  in personnel searches, governing committee service, and educational assessment initiatives. Provides basic technical troubleshooting for the library and sustains campus access to digital resources through both database and systems administration (Ex Libris Voyager, OCLC EZ Proxy, and more). 
+<li>Researches, facilitates, evaluates, and designs workflows for digital scholarship and related project management involving the College’s grant-funded Digital Learning Center. This includes providing technical support, digital asset creation and management, curation of collections, and online publishing. </li> 
+<li>Seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a> and manages project logistics, meets any travel and participation requirements, and represents the College throughout.</li>	
+<li>Supports and sustains campus community though active participation  in personnel searches, governing committee service, and educational assessment initiatives.</li> 
+<li>Provides basic technical troubleshooting for the library and sustains campus access to digital resources through both database and systems administration (Ex Libris Voyager, OCLC EZ Proxy, and more). </li>
 </ul>
 
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
 <p><strong>Freelance Research Assistant</strong> <br>
 <ul>
-<li>Conducted research, gathered relevanthealthcare literature and data for client-focused topics
+<li>Conducted research, gathered relevant literature, presentation materials, and data for client-focused topics
 </ul>
 
 <h3>University of Washington Libraries <small>2012 - 2014</small></h3>
