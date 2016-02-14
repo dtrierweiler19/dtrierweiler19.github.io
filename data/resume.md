@@ -8,11 +8,12 @@
 <p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
 
 
-<h2>Work Experience</h2>
+<h2>Experience</h2>
 
 <h3>Illinois College <small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
+<li>Information literacy library Instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
 <li>Researches, facilitates, evaluates, and designs workflows for digital scholarship and related project management involving the College’s grant-funded Digital Learning Center. This includes providing technical support, digital asset creation and management, curation of collections, and online publishing. </li> 
 <li>Investigates digital initiatives and emerging technologies for the library such as iBeacons, GIS, and media management and lecture capture software.</li>
 <li>Seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a> and manages project logistics, meets any travel and participation requirements, and represents the College throughout.</li>	
@@ -66,30 +67,54 @@
 <h2>Professional Memberships, Awards, and Conferences</h2>
 <ul>
 <li>American Libraries Association (ALA)</li>
-<li>Member of: Academic & College Library Association (ACRL) and Library Information Technology Association (LITA)</li>
+<li>Member of: Academic & College Library Association (ACRL) and Library Information Technology Association (LITA)
   <ul>
     <li>2013 Midwinter Meeting</li>
     <li>2014 Annual Conference</li>
   </ul>
-<li>Special Libraries Association (SLA)</li>
+</li>
+<li>Special Libraries Association (SLA)
   <ul>
     <li>Accepted professional poster session co-presenter for 2014 SLA Annual Meeting in Vancouver: UW Capstone project: Web UX for Nonprofits . Recipient of UW Graduate Professional and Student Senate (GPSS) and iSchool Travel Award Funding</li>
   </ul>
-  
-<li>Association for Information Science and Technology (ASIS&T)</li>
-  <ul>
-    <li>Volunteer Reviewer for IA Summit 2016 Propsals</li>
-    <li>On-site Session Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
-    <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
-  </ul>
-  
-<h3>UW iSchool Community <small>2013 - 2014</small></h3>
+</li>
+<li>Association for Information Science and Technology (ASIS&T)
 <ul>
-<li>Co-Chair of iArts (Information + Arts)</li>
-<li>Treasurer of UW SLA Student Chapter</li>
+  <li>Volunteer Reviewer for IA Summit 2016 Propsals</li>
+  <li>On-site Session Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
+  <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
+</ul>
+</li>
+</ul>
+  
+<h3>Technology</h3>
+<ul>
+<li>Markup Languages: Basic XML, HTML, and CSS</li>
+<li>Beginner JavaScript</li>
 </ul>
 
-<h3>Graduate Coursework</h3>
+<h3>Community and Leadership</h3>
+<ul>
+<li>Springfield Area Web Meetup Coordinator, 2015-present</li>
+<li>Seattle Area UX/IA Meetup Attendee, 2012-14</li>
+<li>University of Washington Information School Co-Chair of iArts (Information + Arts), 2013-14</li>
+<li>University of Washington Information School Treasurer of UW SLA Student Chapter, 2013-14</li>
+</ul>
+
+<h3>International and Diversity</h3>
+<ul>
+<li>University of Washington iSchool quarterly inclusion discussions including the iSchool Diversity Summit: Spring, 2014 </li>
+<li>Volunteer"iDiversity Ambassador" to proofread prospective applicant essays, 2014</li>
+<li>Participant in quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional campus-wide programming, 2014</li>
+<li>Accepted to participate in graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013
+  <ul>
+  <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
+  <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My Write-up on South Korean Information for the UW SLA Chapter WordPress Blog</a></li>
+</ul>
+</li>
+</ul>
+  
+<h3>Relevant University of Washington Information School Graduate Coursework</h3>
 <ul>
 <li>Information Architecture</li>
 <li>Instruction for Information Professionals</li>
@@ -100,23 +125,3 @@
 <li>Introduction to Databases, HTML, and CSS</li>
 <li>Research Methods &amp; Design</li>
 </ul>
-
-
-<h3>Technology</h3>
-<ul>
-<li>Markup Languages: Basic XML, HTML, and CSS</li>
-<li>Beginner JavaScript</li>
-
-<h3>International and Diversity</h3>
-<ul>
-<li>Ongoing participant in UW iSchool Quarterly inclusion discussions and annual UW iSchool Diversity Summit: Spring, 2014 </li>
-<li>Volunteer"iDiversity Ambassador" to proofread prospective applicant essays</li>
-<li>Ongoing participant in Quarterly UW Graduate Opportunities and Minority Achievement (GO-MAP) Professional campus-wide programming</li>
-<li>Accepted to participate in graded, 1-Month UW Information School Seminar on "Information, Technology, and Society" Taught in Seoul, South Korea in Collaboration with Various South Korean National Universities: Summer, 2013</li>
-  <ul>
-  <li><a href="http://dtrier.tumblr.com/" target="_blank">Tumblr Personal Travel Blog</a></li>
-  <li><a href="http://uwsla.wordpress.com/2013/11/18/ischool-exploration-seminar-south-korea/" target="_blank">My Write-up on South Korean Information for the UW SLA Chapter WordPress Blog</a></li>
-</ul>
-</ul>
-  
-  
