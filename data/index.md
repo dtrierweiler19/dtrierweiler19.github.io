@@ -1,8 +1,8 @@
 <h1>Hello!</h1>
 
-<p class="lead">I am a graduate of the ALA-accredited Masters in Library and Information Science (MLIS) degree program at the the University of Washington Information School. I currently live in the Seattle, WA</p>
+<p class="lead">Do you have a messy, complicated information challenge in need of relevance, accessibility, and order? I may be able to help! As a graduate of the ALA-accredited Masters in Library and Information Science (MLIS) degree program at the the University of Washington Information School. I currently live in the Seattle, WA and while onsite projects are preferred, I also collaborate remotely.</p>
 
-<p>I am always seeking opportunities in community rich, user-centered information service environments where I can explore my interests inproject and digital collection management, content management and strategy, and the ability to solve information problems and create social change through a positive user experience/UX. My strengths?</p>
+<p>What do I love about information? To be breif yet exhaustive, everything. I particularly seek opportunities in community rich, user-centered information service environments where I can explore my interests including digital collection management, content management and strategy, and user experience/UX. My strengths?</p>
 
 <ul>
 <li>Effective communication skills with an English major's sense of both verbal and written form and function</li>
