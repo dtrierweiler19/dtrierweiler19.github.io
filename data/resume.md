@@ -17,7 +17,7 @@
 <li></li>
 </ul>
 
-<h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-Present</small></h3>
+<h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-2016</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
 <li>Information literacy library Instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
