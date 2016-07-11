@@ -10,6 +10,13 @@
 
 <h2>Experience</h2>
 
+
+<h3><a ref= "http:uw.edu" target="_blank">University of Washington, UW Medicine:Strategic Marketing and Communications | Digital Marketing Dept.</a><small>2016-Present</small></h3>
+<p><strong>Web Information Specialist</strong><br>
+<ul> 
+<li></li>
+</ul>
+
 <h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-Present</small></h3>
 <p><strong>Digital Services Librarian</strong> <br>
 <ul>
