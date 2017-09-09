@@ -2,7 +2,14 @@
 
 <h3><a href="https://ischool.uw.edu"target="_blank"> University of Washington Information School </a></h3>
 <p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
-
+<li>Lead for Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
+<li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative (Google, Bing, Apple Maps, etc)</li>
+<li>Clinic and location data cleaning and coordinated integrity reporting</li>
+<li>Responsible for public website "bios"- physician profile content management, photo and copy standards, and updates</li>
+<li>Scoping for database migration for Marketing-specific content (see provider bios)</li>
+<li>Digital asset management of provider bio content intake and publication process on public website including reviewing, processing, and archiving provider professional headshots</li>
+<li>Ad-hoc reporting and analysis</li>
+<li>Helpdesk support and Website content updates for shared services clients across the UW Medicine system</li>
 
 <h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
 <p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
