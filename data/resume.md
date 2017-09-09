@@ -10,7 +10,7 @@
 
 <h2>Experience</h2>
 
-<h3><a ref= "http:uw.edu" target="_blank">University of Washington, UW Medicine: Strategic Marketing and Communications | Digital Marketing Dept </a><small>2016-Present</small></h3>
+<h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications | Digital Marketing Dept </a><small>2016-Present</small></h3>
 <p><strong>Web Information Specialist</strong></p>
 <ul>
   <li>Lead for Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
