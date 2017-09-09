@@ -2,6 +2,16 @@
 
 <h3><a href="https://ischool.uw.edu"target="_blank"> University of Washington Information School </a></h3>
 <p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
+
+<h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
+<p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
+
+
+<h2>Experience</h2>
+
+<h3><a ref= "http:uw.edu" target="_blank">University of Washington, UW Medicine: Strategic Marketing and Communications | Digital Marketing Dept </a><small>2016-Present</small></h3>
+<p><strong>Web Information Specialist</strong><br>
+<ul> 
 <li>Lead for Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
 <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative (Google, Bing, Apple Maps, etc)</li>
 <li>Clinic and location data cleaning and coordinated integrity reporting</li>
@@ -10,18 +20,6 @@
 <li>Digital asset management of provider bio content intake and publication process on public website including reviewing, processing, and archiving provider professional headshots</li>
 <li>Ad-hoc reporting and analysis</li>
 <li>Helpdesk support and Website content updates for shared services clients across the UW Medicine system</li>
-
-<h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
-<p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong></p>
-
-
-<h2>Experience</h2>
-
-
-<h3><a ref= "http:uw.edu" target="_blank">University of Washington, UW Medicine: Strategic Marketing and Communications | Digital Marketing Dept </a><small>2016-Present</small></h3>
-<p><strong>Web Information Specialist</strong><br>
-<ul> 
-<li></li>
 </ul>
 
 <h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-2016</small></h3>
