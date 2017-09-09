@@ -107,8 +107,8 @@
 
 <h3>Community and Leadership</h3>
 <ul>
-<li>Springfield Area Web Meetup Coordinator, 2015-present</li>
-<li>Seattle Area UX/IA Meetup Attendee, 2012-14</li>
+<li>Springfield Area Web Meetup Coordinator, 2015-16</li>
+<li>Seattle Area UX/IA Meetup Attendee 2012-14, 2016-present</li>
 <li>University of Washington Information School Co-Chair of iArts (Information + Arts), 2013-14</li>
 <li>University of Washington Information School Treasurer of UW SLA Student Chapter, 2013-14</li>
 </ul>
