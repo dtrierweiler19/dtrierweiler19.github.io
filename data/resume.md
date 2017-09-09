@@ -38,7 +38,10 @@
 <h3>Chase Lane Consulting Services <small>2014 - 2015</small></h3>
 <p><strong>Freelance Research Assistant</strong> </p>
 <ul>
-  <li>Conducted research, gathered relevant literature, presentation materials, and data for client-focused<h2>Education</h2>
+  <li>Conducted research, gathered relevant literature, presentation materials, and data for client-focused</li>
+</ul>
+
+<h2>Education</h2>
 
 <h3><a href="https://ischool.uw.edu"target="_blank"> University of Washington Information School </a></h3>
 <p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
@@ -140,9 +143,12 @@
     <li>On-site Session Volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
     <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
     </li>
-    <li>Electronic Resources & Libraries (ER &L)</li>
-    <li>Recipient of 2016 Cross-Pollinator Travel Award</li>
   </ul>
+  <li>Electronic Resources & Libraries (ER &L)
+    <ul>
+      <li>Recipient of 2016 Cross-Pollinator Travel Award</li>
+    </ul>
+  </li>
 </ul>
 
 <h3>Technology</h3>
