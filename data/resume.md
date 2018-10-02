@@ -158,6 +158,15 @@
     online research, and preparation of formal communications </li>
 </ul>
 
+<h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
+<p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
+<ul>
+  <li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
+  <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
+  <li>Delivered a guest lecture and led class session on information behavior</li>
+</ul>
+
+
 <h3>Ann Arbor District Library (AADL) <small>2010 - 2012</small></h3>
 <p><strong>Information Desk Clerk</strong> </p>
 <ul>
@@ -168,23 +177,6 @@
   <li>Responsible for reporting desk query metrics, IT Help-Desk issues, and public safety incident reports as needed</li>
   <li>Assistance with collection weeding projects</li>
 </ul>
-
-<p><strong>Book Processor</strong></p>
-<ul>
-  <li>Shelving, care, and check-in of library materials including inter-library loan (ILL)</li>
-  <li>Patron assistance</li>
-  <li>Occasional collection shifting/reshelving projects and event support</li>
-</ul>
-
-
-<h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
-<p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
-<ul>
-  <li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
-  <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
-  <li>Delivered a guest lecture and led class session on information behavior</li>
-</ul>
-
 
 <h2>Professional Memberships, Awards, and Conferences</h2>
 <ul>
@@ -220,8 +212,14 @@
 
 <h3>Community and Leadership</h3>
 <ul>
+  <li>Accepted to present a poster on healthcare taxonomy at peer-reviewed IA Summit,2018</li>
+  <li>Completed General Assembly Data Circuit 10-week course 2018</li>
+  <li>Completed School of Visual Concepts 5-week course: Fundamentals of UX 2017</li>
+  <li>Completed School of Visual Concepts 5-week course: Beginning HTML and CSS 2016</li>
+<li>Completed in-depth online Deque University Web Accessibility series of courses 2016</li>
+<li>Accepted to present a poster on technical infrastructure workflows at peer-reviewed IA</li>
+Summit 2016
   <li>Springfield Area Web Meetup Coordinator, 2015-16</li>
-  <li>Seattle Area UX/IA Meetup Attendee 2012-14, 2016-present</li>
   <li>University of Washington Information School Co-Chair of iArts (Information + Arts), 2013-14</li>
   <li>University of Washington Information School Treasurer of UW SLA Student Chapter, 2013-14</li>
 </ul>
