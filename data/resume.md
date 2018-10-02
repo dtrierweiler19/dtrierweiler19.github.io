@@ -62,14 +62,6 @@
   <li>Assistance with collection weeding projects</li>
 </ul>
 
-<p><strong>Book Processor</strong></p>
-<ul>
-  <li>Shelving, care, and check-in of library materials including inter-library loan (ILL)</li>
-  <li>Patron assistance</li>
-  <li>Occasional collection shifting/reshelving projects and event support</li>
-</ul>
-
-
 <h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
 <ul>
@@ -97,9 +89,9 @@
   <ul>
     <li>Accepted to present a poster on healthcare taxonomy at peer-reviewed IA Summit 2018 </li>
     <li>Accepted to present a poster on library technical infrastructure workflow gaps 2016</li>
-    <li>Volunteer peer-reviewer for IA Summit 2016 and 2018 Propsals</li>
+    <li>Volunteer peer-reviewer for IA Summit 2016 and 2018 Proposals</li>
     <li>On-site Session administrative volunteer for ASIS&T Sponsored 2014 Information Architecture Summit (IA Summit)</li>
-    <li>Accepted professional poster session co-presenter for ASIS&T Annual 2014 "Digital Liaisons: Building Communities and Empowering Culture through Digital Libraries" on Librarians as digital curators for media and cultural information sharing</li>
+    <li>Accepted to present a poster for ASIS&T Annual 2014 on Librarians as digital curators for media and cultural information sharing</li>
     </li>
   </ul>
   <li>Electronic Resources & Libraries (ER &L)
@@ -113,6 +105,10 @@
 <ul>
   <li>Markup Languages: Basic XML, HTML, and CSS</li>
   <li>Beginner JavaScript</li>
+  <li>Completed General Assembly Data Circuit 10-week course 2018</li>
+  <li>Completed School of Visual Concepts 5-week course: Fundamentals of UX 2017</li>
+  <li>Completed School of Visual Concepts 5-week course: Beginning HTML and CSS 2016</li>
+  <li>Completed in-depth online Deque University Web Accessibility series of courses 2016</li>
 </ul>
 
 <h3>Community and Leadership</h3>
