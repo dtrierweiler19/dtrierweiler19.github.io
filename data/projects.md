@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-<h3>IA Summit 2018 Taxonomy Poster</h3>
+<h3>IA Summit Taxonomy Poster 2018</h3>
 
 <h4>Refreshing the uwmedicine.org Patient Experience: a Healthcare Taxonomy Case Study</h4>
 
