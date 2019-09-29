@@ -83,7 +83,7 @@
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
 <ul>
   <li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
-  <li>Graded Graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
+  <li>Graded graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
   <li>Delivered a guest lecture and led class session on information behavior</li>
 </ul>
 
@@ -120,7 +120,7 @@
 
 <h3>Technology</h3>
 <ul>
-  <li>Markup Languages: Basic XML, HTML, and CSS</li>
+  <li>Markup languages: Basic XML, HTML, and CSS</li>
   <li>Beginner JavaScript</li>
   <li>Completed General Assembly Data Circuit 10-week course 2018</li>
   <li>Completed School of Visual Concepts 5-week course: Fundamentals of UX 2017</li>
