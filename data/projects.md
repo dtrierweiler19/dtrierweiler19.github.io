@@ -53,9 +53,7 @@
 
 <p>By digitizing, re-encoding, and editing audio files using Audacity, an open source sound editing tool, as well as creating academic LibGuides, I was able to create a unique and context-rigch cultural online resource for the UW Library community and wider public. Some collections have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
 
-<ul>
-    <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">Listen to the Crocodile Cafe Collection on Soundcloud</a></li>
-</ul>
+<p><a class="btn btn-default" target="_blank" href="https://soundcloud.com/uwpbraries/sets/crocodile-cafe-collection">Listen on SoundCloud</a></p>
 
 <h3>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h3>
 
