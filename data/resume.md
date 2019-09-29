@@ -57,10 +57,9 @@
 
 <h3>University of Washington Libraries</h3>
 <small>2012 - 2014</small>
-<p>IMLS Grant Project</p>
 <strong>Graduate Student Assistant</strong></p>
 <ul>
-  <li>Media Center: digital audio collection development, "LibGuides" research guide creation, website maintenance, social media</li>
+  <li>Media Center: digital audio collection development, "LibGuides" research guide creation, website maintenance, social media. Included work with IMLS grant project for audio preservation and access</li>
   <li>Digital Initiatives Dept: High-volume hand-digitization, manuscript scanning, and image quality control using Adobe Photoshop</li>
   <li>Labor Archives &amp; Special Collections: archival processing, creation of encoded archival description (EAD) finding aids using xMetal (XML) software, screening documents for sensitive info and redaction, creation of spreadsheets for collection management,
     online research, and preparation of formal communications </li>
