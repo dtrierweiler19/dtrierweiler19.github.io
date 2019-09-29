@@ -3,7 +3,7 @@
 <h3><a href="https://ischool.uw.edu"target="_blank"> University of Washington Information School </a></h3>
 <p><strong>Masters of Library and Information Science (MLIS-ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
 
-<h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
+<h3><a href= "http://www.kzoo.edu" target="_blank"> Kalamazoo College</a></h3>
 <p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong>
 </p>
 
@@ -20,7 +20,8 @@
 <li>Analysis and reporting for technical implementation of web strategy and industry trends.</li>
 </ul>
 
-<h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a><small>2016-January 2019</small></h3>
+<h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a></h3>
+<small>2016-January 2019</small>
 <p><strong>Web Information Specialist</strong></p>
 <ul>
   <li>Led Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
@@ -33,7 +34,8 @@
   <li>Helpdesk support and website requests for content updates for shared services clients across the UW Medicine system</li>
 </ul>
 
-<h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-2016</small></h3>
+<h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a></h3>
+<small>2015-2016</small>
 <p><strong>Digital Services</strong> </p>
 <ul>
   <li>Information literacy library Instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
@@ -45,13 +47,15 @@
   <li>Provides basic technical troubleshooting for the library and sustains campus access to digital resources through both database and systems administration (Ex Libris Voyager, OCLC EZ Proxy, and more). </li>
 </ul>
 
-<h3>Chase Lane Consulting Services <small>2018 - 2018</small></h3>
+<h3>Chase Lane Consulting Services</h3>
+<small>2018 - 2018</small>
 <p><strong>Freelance Research Assistant</strong> </p>
 <ul>
   <li>Conducted research, gathered relevant literature, presentation materials, and data for client-focused topics</li>
 </ul>
 
-<h3>University of Washington Libraries <small>2012 - 2014</small></h3>
+<h3>University of Washington Libraries</h3>
+<small>2012 - 2014</small>
 <p><strong>IMLS Grant Project</strong> <a href="//projects">See projects</a></p>
 <strong>Graduate Student Assistant</strong></p>
 <ul>
@@ -61,7 +65,8 @@
     online research, and preparation of formal communications </li>
 </ul>
 
-<h3>Ann Arbor District Library (AADL) <small>2010 - 2012</small></h3>
+<h3>Ann Arbor District Library (AADL)</h3>
+<small>2010 - 2012</small>
 <p><strong>Information Desk Clerk</strong> </p>
 <ul>
   <li>Troubleshooting for public computer terminal users</li>
@@ -72,7 +77,8 @@
   <li>Assistance with collection weeding projects</li>
 </ul>
 
-<h3>Information School at the University of Washington <small>Winter, 2013 - 2014</small></h3>
+<h3>Information School at the University of Washington</h3>
+<small>Winter, 2013 - 2014</small>
 <p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
 <ul>
   <li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
