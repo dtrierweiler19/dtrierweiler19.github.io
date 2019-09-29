@@ -30,9 +30,8 @@
 <li>Assisting grant PIs with project management</li>
 <li>Budget updates and tracking</li>
 <li>Coordination of June 2014 summit including working closely with UW Grants Management staff to conduct budget montoring, support PIs with meeting logistics including secretarial duties and assesment. </li>
-<li>Travel-to and participation in June 2014 summit for on-site admin support </li>
+<li>Travel-to and participation in June 2014 summit for on-site admin support audio Preservation, organization and access </li>
 </ul>
-Audio Preservation, Organization and Archiving
 <h3><a target="_blank" href="http://guides.lib.washington.edu/content.php?pid=228051&sid=1887212">UW Libraries Suzzallo/Allen Media Center, Jan 2013-Dec 2014</a></h3>
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
 <p>Intern and Graduate Student Assistant at the UW Libraries Media Center: I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
