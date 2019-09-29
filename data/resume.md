@@ -23,7 +23,7 @@
 
 <h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a></h3>
 <small>2016-January 2019</small>
-<p><strong>Web Information Specialist</strong></p>
+<p><strong>Web Producer/ Information Specialist</strong></p>
 <ul>
   <li>Scoped and led taxonomy and structured data initiatives for large-scale public website redesign: included information management audit, category mappings, and strategic recommendations</li>
   <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
