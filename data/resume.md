@@ -49,7 +49,7 @@
 </ul>
 
 <h3>Chase Lane Consulting Services</h3>
-<small>2018 - 2018</small>
+<small>2014, 2018</small>
 <p><strong>Freelance Research Assistant</strong> </p>
 <ul>
   <li>Conducted research, gathered relevant literature, presentation materials, and data for client-focused topics</li>
