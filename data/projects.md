@@ -23,8 +23,6 @@
 <li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
 <li><a target="_blank" href="http://www.kingcountyrefugeeforum.org/">Visit the Refugee Forum of King County Website</a></li>
 <li><a target="_blank" href="https://dl.dropboxusercontent.com/u/129040114/CapstoneAdvisory%20Board%20Presentation.pdf">Project Presentation-Courtesy of Erika Deal </a></li>
-<li><a href="http://www.tumblr.com/blog/capstoneproject2014" target="_blank">Tumblr Blog of Our Process</a></li>
-</ul>
 
 <h3><a target="_blank" href="http://guides.lib.washington.edu/imls2014">IMLS Grant: UW Libraries and Music Library Association (MLA), March-Current 2014</a></h3>
 
@@ -46,7 +44,6 @@ Audio Preservation, Organization and Archiving
 
 <ul>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
-<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">The Vera Project Collection on Soundcloud</a></li>
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
 <h3>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h3>
