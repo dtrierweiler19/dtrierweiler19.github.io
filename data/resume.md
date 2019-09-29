@@ -29,7 +29,7 @@
   <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
   <li>Health system clinic and location metadata cleaning and enterprise-level integrity reporting</li>
   <li>Content manager for public website biography pages- including physician profile content management, branded photo and copy standards, and requested updates</li>
-  <li>Scoping for database migration options for marketing content</li>
+  <li>Researched database migration requirements for marketing content</li>
   <li>Digital asset management of provider bio content intake and publication process on public website including reviewing, processing, and archiving provider professional headshots</li>
   <li>Ad-hoc CMS reporting and analysis</li>
   <li>Helpdesk support and website requests for content updates for shared services clients across the UW Medicine system</li>
