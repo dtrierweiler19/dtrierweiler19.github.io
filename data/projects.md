@@ -15,9 +15,9 @@
 
 <h4>Creating for Community: Designing a Website for the Refugee Forum of King County</h4>
 
-<p>Over the course of roughly 6-months, two fellow UW MLIS students and I worked collaboratively to produce a custom website for our sponsors, the Refugee Forum of King County (RFKC)who needed to share information across numerous non-profit organization but aside from monthly in-person meetings, had only been communicating through social media. The Seattle nonprofit had been interested in building its first website for several years due to the frequently changing refugee population needs, but had yet been unsuccessful. Our team worked closely with RFKC leadership to conduct user research, design, and create our final product: a custom WordPress website that would make the complex nature of local refugee services more accessible to the communities and organizations that serve them </p>
-
-<p>Our design and development goals for the site were ambitious. We worked in a rapid and iterative production style inspired by agile and lean development methodologies. We centered our scope around core values of accessability, usability, and scalability in order to succeed in creating a functional, attractive, and sustainable website.</p>
+<p>Over the course of roughly 6-months, two fellow UW MLIS students and I worked collaboratively to produce a custom website for our sponsors, the Refugee Forum of King County (RFKC)who needed to share information across numerous non-profit organization but aside from monthly in-person meetings, had only been communicating through social media.</p>
+  
+<p>The Seattle nonprofit had been interested in building its first website for several years due to the frequently changing refugee population needs, but had yet been unsuccessful. Our team worked closely with RFKC leadership to conduct user research, design, and create our final product: a custom WordPress website that would make the complex nature of local refugee services more accessible to the communities and organizations that serve them </p>
 
 <p>Our project methods required that we frequently worked as a team,  although we took on specialized roles as well. As primary Content Strategist for the RFKC site, I served as the champion for communication, editorial, and content-based initiatives such as:</p>
 
