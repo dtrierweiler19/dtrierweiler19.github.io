@@ -10,17 +10,25 @@
 
 <h2>Experience</h2>
 
+<h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a><small>2016-Present</small></h3>
+<p><strong>Web Information Specialist</strong></p>
+<ul>
+  <li>Led Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
+  <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
+  <li>Clinic and location data cleaning and enterprise-level integrity reporting</li>
+  <li>Responsible for public website "bios"- physician profile content management, photo and copy standards, and updates</li>
+</ul>
 <h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a><small>2016-Present</small></h3>
 <p><strong>Web Information Specialist</strong></p>
 <ul>
-  <li>Lead for Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
-  <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative (Google, Bing, Apple Maps, etc)</li>
-  <li>Clinic and location data cleaning and coordinated integrity reporting</li>
+  <li>Led Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
+  <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
+  <li>Clinic and location data cleaning and enterprise-level integrity reporting</li>
   <li>Responsible for public website "bios"- physician profile content management, photo and copy standards, and updates</li>
   <li>Scoping for database migration for Marketing-specific content (see provider bios)</li>
   <li>Digital asset management of provider bio content intake and publication process on public website including reviewing, processing, and archiving provider professional headshots</li>
   <li>Ad-hoc reporting and analysis</li>
-  <li>Helpdesk support and Website content updates for shared services clients across the UW Medicine system</li>
+  <li>Helpdesk support and website requests for content updates for shared services clients across the UW Medicine system</li>
 </ul>
 
 <h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a><small>2015-2016</small></h3>
