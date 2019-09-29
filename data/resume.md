@@ -10,7 +10,8 @@
 
 <h2>Experience</h2>
 
-<h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a> <small>Feb 2019-Present</small></h3>
+<h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a></h3>
+<small>Feb 2019-Present</small>
 <p><strong>Technical SEO Analyst</strong></p>
 <ul>
   <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product, development, and Content SEO teams.</li>
