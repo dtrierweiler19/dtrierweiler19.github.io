@@ -1,5 +1,11 @@
 <h1>Projects</h1>
 
+<h3>Taxonomy Poster 2018</h3>
+
+<h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
+
+<p><a target="_blank" href="dtrier/themes/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
+
 <h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington Capstone, Jan-June 2014</a></h3>
 
 <h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
