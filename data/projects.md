@@ -4,13 +4,13 @@
 
 <h4>Refreshing the uwmedicine.org Patient Experience: a Healthcare Taxonomy Case Study</h4>
 
-<p><a class="btn btn-default" target="_blank" href="themes/dtrier/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
-
 <ul>
     <li>Accepted to present at the IA Conference [formerly IA Summit] 2018 peer-reviewed poster night</li>
     <li>Taxonomy site audit, evaluation, process, and recommendations for a 3,000 page public website</li>
     <li>Simultaneously moving parts- efforts to migrate both front and back ends with a lean web team</li>
 </ul>
+
+<p><a class="btn btn-default" target="_blank" href="themes/dtrier/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
 
 <h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington Capstone, Jan-June 2014</a></h3>
 
