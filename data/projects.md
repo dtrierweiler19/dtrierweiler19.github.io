@@ -20,8 +20,6 @@
 
 
 <ul>
-<li><a target="_blank" href="https://ischool.uw.edu/feature-stories/creating-community-case-study-user-centered-web-design-non-profits/">Read More About the RFKC Website via the UW iSchool News & Events- Featured Stories</a></li>
-
 <h3>IMLS Grant: UW Libraries and Music Library Association (MLA), March-Current 2014</a></h3>
 
 <h4>“National Forum on Online-Only Music: 21st Century Sound Recording Collection in Crisis"</h3>
