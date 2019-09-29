@@ -1,7 +1,7 @@
 <h2>Education</h2>
 
 <h3><a href="https://ischool.uw.edu"target="_blank"> University of Washington Information School </a></h3>
-<p><strong>Masters of Library and Information Science (ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
+<p><strong>Masters of Library and Information Science (MLIS-ALA accredited)</strong> <small class="text-muted">2012 - 2014</small></p>
 
 <h3><a href= "http://www.kzoo.edu" target-"_blank"> Kalamazoo College</a></h3>
 <p><strong>English: Creative Writing/Poetry</strong> <small class="text-muted">2003 - 2008</small></strong>
@@ -10,7 +10,7 @@
 
 <h2>Experience</h2>
 
-<h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a> <small>Feb 2018=9-Present</small></h3>
+<h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a> <small>Feb 2019-Present</small></h3>
 <p><strong>Technical SEO Analyst</strong></p>
 <ul>
   <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product, development, and Content SEO teams.</li>
