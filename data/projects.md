@@ -2,7 +2,7 @@
 
 <h3>Taxonomy Poster 2018</h3>
 
-<h4>"Creating for Community: Designing a Website for the Refugee Forum of King County"</h4>
+<h4>Refreshing the uwmedicine.org Patient Experience: a Healthcare Taxonomy Case Study</h4>
 
 <p><a target="_blank" href="themes/dtrier/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
 
