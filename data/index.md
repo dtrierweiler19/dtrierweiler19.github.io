@@ -1,6 +1,7 @@
 <h1>Hello!</h1>
 
-<p class="lead">Do you have a complicated information challenge in need of evaluation, accessibility, and order? As a graduate of an ALA-accredited Masters in Library and Information Science (MLIS) degree program at the the University of Washington Information School I offer over 5 years of solving complex information challenges that hold information access (and maybe also business!) back. I am currently based out of Seattle, WA and while local projects are preferred, I also collaborate remotely.</p>
+<p class="lead">Do you have a complicated information challenge in need of evaluation, accessibility, and order?</p>
+<p class="lead">As a graduate of the Masters in Library and Information Science (MLIS) program at the University of Washington, I offer over 5 years of solving complex information access challenges for businesses, education, and non-profits. I am currently based out of Seattle, WA and while local projects are preferred, I also collaborate remotely.</p>
 
 <p>What do I love about information? To be brief yet exhaustive, everything. I particularly seek opportunities in community rich, user-centered information service environments where I can explore and apply my knowledge of taxonomy, digital curation, content management and strategy, and user experience/UX. My strengths?</p>
 
