@@ -20,7 +20,7 @@
 <li>Analysis and reporting for technical implementation of web strategy and industry trends.</li>
 </ul>
 
-<h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a><small>2016-Present</small></h3>
+<h3><a href= "http://www.uwmedicine.org" target="_blank"> University of Washington, UW Medicine: Strategic Marketing and Communications </a><small>2016-January 2019</small></h3>
 <p><strong>Web Information Specialist</strong></p>
 <ul>
   <li>Led Taxonomy development for public website redesign: includes information management, term audit, and strategic recommendations</li>
