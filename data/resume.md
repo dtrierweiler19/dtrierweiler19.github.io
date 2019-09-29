@@ -57,7 +57,7 @@
 
 <h3>University of Washington Libraries</h3>
 <small>2012 - 2014</small>
-<p><strong>IMLS Grant Project</strong> <a href="/projects">See projects</a></p>
+<p>IMLS Grant Project</p>
 <strong>Graduate Student Assistant</strong></p>
 <ul>
   <li>Media Center: digital audio collection development, "LibGuides" research guide creation, website maintenance, social media</li>
@@ -68,7 +68,7 @@
 
 <h3>Ann Arbor District Library (AADL)</h3>
 <small>2010 - 2012</small>
-<p><strong>Information Desk Clerk</strong> </p>
+<p><strong>Information Desk Clerk and Book Processor</strong> </p>
 <ul>
   <li>Troubleshooting for public computer terminal users</li>
   <li>Reference desk assistance to patrons at all five AADL branch locations</li>
