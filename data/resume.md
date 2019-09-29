@@ -161,6 +161,5 @@
   <li>Interactive Design &amp; Web Strategy</li>
   <li>Introduction to Databases, HTML, and CSS</li>
   <li>Research Methods &amp; Design</li>
-</ul> topics</li>
 </ul>
 
