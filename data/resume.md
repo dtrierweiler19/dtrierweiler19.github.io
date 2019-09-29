@@ -37,7 +37,7 @@
 
 <h3><a href="http://ic.edu/library" target="_blank">Illinois College Schewe Library </a></h3>
 <small>2015-2016</small>
-<p><strong>Digital Services</strong> </p>
+<p><strong>Digital Services Librarian</strong> </p>
 <ul>
   <li>Information literacy and academic research library instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
   <li>Researched, facilitated, and evaluated workflows for digital scholarship and related project management involving the College’s grant-funded Digital Learning Center. This includes providing technical support, digital asset creation and management,
