@@ -6,8 +6,8 @@
 
 <p><a target="_blank" href="themes/dtrier/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
 <ul>
-<li>Accepted to present at the IA Conference [formerly IA Summit] 2018 postern night</li>
-<li>Taxonomy site audit, evaluation, process, and recommendations for 3,000 page public website</li>
+<li>Accepted to present at the IA Conference [formerly IA Summit] 2018 peer-reviewed poster night</li>
+<li>Taxonomy site audit, evaluation, process, and recommendations for a 3,000 page public website</li>
 <li>Simultaneously moving parts- efforts to migrate both front and back ends with a lean web team</li>
 </ul> 
 
