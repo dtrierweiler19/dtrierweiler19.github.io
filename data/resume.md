@@ -28,7 +28,7 @@
   <li>Scoped and led taxonomy and structured data initiatives for large-scale public website redesign: included information management audit, category mappings, and strategic recommendations</li>
   <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
   <li>Health system clinic and location metadata cleaning and enterprise-level integrity reporting</li>
-  <li>Responsible for public website biography pages- including physician profile content management, branded photo and copy standards, and requested updates</li>
+  <li>Content manager for public website biography pages- including physician profile content management, branded photo and copy standards, and requested updates</li>
   <li>Scoping for database migration options for marketing content</li>
   <li>Digital asset management of provider bio content intake and publication process on public website including reviewing, processing, and archiving provider professional headshots</li>
   <li>Ad-hoc CMS reporting and analysis</li>
@@ -39,13 +39,13 @@
 <small>2015-2016</small>
 <p><strong>Digital Services</strong> </p>
 <ul>
-  <li>Information literacy library Instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
-  <li>Researches, facilitates, evaluates, and designs workflows for digital scholarship and related project management involving the College’s grant-funded Digital Learning Center. This includes providing technical support, digital asset creation and management,
+  <li>Information literacy and academic research library instruction for undergraduate ENG 121, a graded, required research, reading and writing course. Roughly 5 hours of in-class instruction per session, 2 sessions per semester.</li>
+  <li>Researched, facilitated, and evaluated workflows for digital scholarship and related project management involving the College’s grant-funded Digital Learning Center. This includes providing technical support, digital asset creation and management,
     curation of collections, and online publishing. </li>
-  <li>Investigates digital initiatives and emerging technologies for the library such as iBeacons, GIS, and media management and lecture capture software.</li>
-  <li>Seeks and pursues external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a>    and manages project logistics, meets any travel and participation requirements, and represents the College throughout.</li>
-  <li>Participates in campus service and governance via campus committees. Serves as primary liaison to IL statewide consortium, CARLI.</li>
-  <li>Provides basic technical troubleshooting for the library and sustains campus access to digital resources through both database and systems administration (Ex Libris Voyager, OCLC EZ Proxy, and more). </li>
+  <li>Investigated digital initiatives and emerging technologies for the library use such as iBeacons, GIS, and media management and lecture capture software.</li>
+  <li>Pursued external grant and funding opportunities such as the <a href="http://cic.edu/News-and-Publications/Independent-Newsletter/PI-2015/Pages/Shared-Shelf.aspx" target="_blank">Council for Independent Colleges Consortium of Digital Resources for Teaching and Research</a>    and manages project logistics, meets any travel and participation requirements, and represents the College throughout.</li>
+  <li>Participated in campus service and governance via campus committees. Serves as primary liaison to IL statewide consortium, CARLI.</li>
+  <li>Technical support for the library systems including database subcriptions and metric tracking and collection management (Ex Libris Voyager, OCLC EZ Proxy, and more). </li>
 </ul>
 
 <h3>Chase Lane Consulting Services</h3>
@@ -130,6 +130,8 @@
 
 <h3>Community and Leadership</h3>
 <ul>
+  <li>IxDA Conference volunteer, 2019</li>
+  <li>IA Conference volunteer, (submission peer-reviewer) 2019</li>
   <li>Springfield Area Web Meetup Coordinator, 2015-16</li>
   <li>Seattle Area UX/IA Meetup Attendee 2012-14, 2016-present</li>
   <li>University of Washington Information School Co-Chair of iArts (Information + Arts), 2013-14</li>
