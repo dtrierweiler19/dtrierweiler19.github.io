@@ -39,10 +39,10 @@ Audio Preservation, Organization and Archiving
 <h4>Pacific Northwest "Puget Sounds" Digital Audio Archives</h4>
 <p>Intern and Graduate Student Assistant at the UW Libraries Media Center: I have had several opportunities to investigate digital preservation techniques and collection development. Two projects in particular captured the spirit of alternative music and performance in music venues unique to Seattle.</p>
 <p>By digitizing, re-encoding, and editing audio files using Audacity, an open source sound editing tool, as well as creating academic LibGuides, I was able to create a unique and context-rigch cultural online resource for the UW Library community and wider public. Both collections have been uploaded to cloud-based audio service Soundcloud.com to maximize direct user access to content if only temporarily, until similarly usable and longer-term access repository options may be identified</p>
-
 <ul>
+  
 <li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/crocodile-cafe-collection">The Crocodile Cafe Collection on Soundcloud</a></li>
-<li><a target="_blank" href="https://soundcloud.com/uwlibraries/sets/vera-project-collection/">UW Media Center LibGuide: More Info About the Vera Project Collection</a></li>
 </ul>
+
 <h3>Sub Pop Records: Digital Asset Management (DAM), Sept 2013-Feb 2014</h3>
 <p>Digital Asset Coordinator Intern: This internship included organizing digital marketing content files, performing metadata entry and new catalog entries using Microsoft Access and uploading digital images in Sub Pop's proprietary CMS. I also maintained digital image quality control, eliminate content duplicates, ensured currency and completeness of artist profile and record release dates, and maintained the physical company archive.</P>
