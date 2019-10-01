@@ -14,7 +14,7 @@
 <small>Feb 2019-Present</small>
 <p><strong>Technical SEO Analyst</strong></p>
 <ul>
-  <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product, development, and Content SEO teams.</li>
+  <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product development, editorial, and Content SEO teams.</li>
   <li>Supports content optimization across a variety of user experiences</li>
   <li>Provides high level recommendations based on deep dives into data</li>
 <li>Monitors, supports, and enhances technical SEO performance of Allrecipies.com/ Meredith Digital websites and champions organic traffic growth through actionable search strategies</li>
@@ -26,7 +26,7 @@
 <p><strong>Web Producer/ Information Specialist</strong></p>
 <ul>
   <li>Scoped and led taxonomy and structured data initiatives for large-scale public website redesign: included information management audit, category mappings, and strategic recommendations</li>
-  <li>Local SEO and business listings: Clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
+  <li>Local SEO and business listings: clinic and provider cross-channel claiming initiative focused primarily on Google My Business</li>
   <li>Health system clinic and location metadata cleaning and enterprise-level integrity reporting</li>
   <li>Content manager for public website biography pages- including physician profile content management, branded photo and copy standards, and requested updates</li>
   <li>Researched database migration requirements for marketing content</li>
@@ -79,10 +79,10 @@
 
 <h3>Information School at the University of Washington</h3>
 <small>Winter, 2013 - 2014</small>
-<p><strong>Teaching Assistant: LIS 510 "Information Behavior," Residential Sections A and B</strong> </p>
+<p><strong>Teaching Assistant: LIS 510 "Information Behavior" for 2 graduate course sections</strong> </p>
 <ul>
   <li>Supported instructors via daily in-person class attendance and online using Canvas Learning Management System (LMS)</li>
-  <li>Graded graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students (between both sections)</li>
+  <li>Graded graduate student papers using rubric and provided thoughtful, timely feedback for approx 70 students</li>
   <li>Delivered a guest lecture and led class session on information behavior</li>
 </ul>
 
