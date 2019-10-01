@@ -24,7 +24,7 @@
 
 <ul>
     <li>Front-end requirements gathering</li>
-    <li>Stakeholder wrangling </li>
+    <li>Stakeholder communications </li>
     <li>Project hand-off deliverables: recruited and trained in-house volunteer web coordinators to ensure website maintenance at project close</li>
     <li>User feedback and communication via surveys, help-desk fielding, and usability testing</li>
     <li>Content coordination</li>
