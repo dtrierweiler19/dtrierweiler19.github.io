@@ -21,6 +21,7 @@
     <li>Chosen user- problem to solve: how to encourage overwhelmed, digitally-inclined users to gather data on their mental state while creating an unobtrusive opportinity to reflect</li>
 </ul>
 
+<p><a class="btn btn-default" target="_blank" href="https://marvelapp.com/3j85abh/screen/32395991">Test Mindfulness Protype on Marvel App</a></p>
 
 <h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington Capstone, Jan-June 2014</a></h3>
 
