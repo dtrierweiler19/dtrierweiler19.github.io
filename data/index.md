@@ -11,7 +11,7 @@
 <li>Effective verbal and written communicatior with an English major's knack for flow, voice, and tone</li>
 <li>Curious and creative problem-solver</li>
 <li>Commitment to information services that add value: from public and academic library experiences to healthcare and media industry experiences- I go where the information challenges are</li>
-<li>Advocate for user-centered design: in library infomation services, technology usability, and web design./li>
+<li>Advocate for user-centered design: in library infomation services, technology usability, and web design.
 <li>Experienced inundergraduate library instruction and graduate instructor support. I also have experiences with the following learning management system: Canvas, Echo Systems, and Moodle.</li>
 <li>Experience with business administrative tasks: budgeting, grant-writing, and non-profit organizational funding process</li>
 <li>Empathy and cross-cultural competence: I respect and advocate for diversity, privacy, and equity in information needs </li>
