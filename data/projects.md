@@ -9,8 +9,18 @@
     <li>Taxonomy site audit, evaluation, process, and recommendations for a 3,000 page public website</li>
     <li>Categorized and mapped relationships between hundreds of unique terms to support site migration</li>
 </ul>
-
 <p><a class="btn btn-default" target="_blank" href="themes/dtrier/03212018_IASummit18_PosterPresentations.com48x48Template.pdf">View Poster PDF</a></p>
+
+<h3>Fundamentals of UX Course Final Projet 2017</h3>
+
+<h4>Anxiety Mitigation and Emotional Mindfulness Logging Mobile App</h4>
+
+<ul>
+    <li>Covered core concepts of UX including heuristics, user research, empathy, and design thinking</li>
+    <li>10-week course met once weekly for lecture and group project work</li>
+    <li>Chosen user- problem to solve: how to encourage overwhelmed, digitally-inclined users to gather data on their mental state while creating an unobtrusive opportinity to reflect</li>
+</ul>
+
 
 <h3><a target="_blank" href="http://www.kingcountyrefugeeforum.org">University of Washington Capstone, Jan-June 2014</a></h3>
 
