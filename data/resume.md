@@ -17,7 +17,7 @@
   <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product development, editorial, and Content SEO teams.</li>
   <li>Supports content optimization across a variety of user experiences</li>
   <li>Provides high level recommendations based on deep dives into data</li>
-<li>Monitors, supports, and enhances technical SEO performance of Allrecipies.com/ Meredith Digital websites and champions organic traffic growth through actionable search strategies</li>
+<li>Monitors, supports, and enhances technical SEO performance of Allrecipes.com/ Meredith Digital websites and champions organic traffic growth through actionable search strategies</li>
 <li>Analysis and reporting for technical implementation of web strategy and industry trends.</li>
 </ul>
 
