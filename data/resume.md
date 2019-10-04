@@ -12,10 +12,10 @@
 
 <h3><a href= "https://www.meredith.com/national-media/digital" target="_blank"> Meredith Corporation | Meredith Digital SEO Team</a></h3>
 <small>Feb 2019-Present</small>
-<p><strong>Technical SEO Analyst</strong></p>
+<p><strong>Technical SEO Manager</strong></p>
 <ul>
   <li>Combines an understanding of content strategy with search engine crawling and indexing to provide tactical support to product development, editorial, and Content SEO teams.</li>
-  <li>Supports content optimization across a variety of user experiences</li>
+  <li>Supports content optimization across a variety of user experiences including information architecture evaluations and taxonomy optimization</li>
   <li>Provides high level recommendations based on deep dives into data</li>
 <li>Monitors, supports, and enhances technical SEO performance of Allrecipes.com/ Meredith Digital websites and champions organic traffic growth through actionable search strategies</li>
 <li>Analysis and reporting for technical implementation of web strategy and industry trends.</li>
